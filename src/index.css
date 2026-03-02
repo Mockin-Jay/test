@@ -1,0 +1,87 @@
+@import "tailwindcss";
+
+:root {
+  --color-warm-bg: #f5efe6;
+  --color-warm-card: #faf6ef;
+  --color-warm-border: #e8dfd3;
+  --color-accent: #a0785a;
+  --color-accent-hover: #8b6849;
+  --color-text: #4a3f35;
+  --color-text-muted: #8a7d72;
+
+  /* Icon button circle colors */
+  --color-btn-coral: #f28b82;
+  --color-btn-green: #81c784;
+  --color-btn-blue: #7db8d4;
+  --color-btn-yellow: #e8c84a;
+  --color-btn-orange: #e8a64a;
+
+  /* Expression slots */
+  --color-expr-active: #7dba84;
+  --color-expr-inactive: #d4cdc4;
+
+  /* Slider */
+  --color-slider-track: #c4b8a8;
+  --color-slider-thumb: #6b5d4f;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background-color: transparent;
+  color: var(--color-text);
+  font-family: "Inter", "Segoe UI", system-ui, -apple-system, sans-serif;
+}
+
+/* Vertical slider — rotated native range input */
+.vertical-slider {
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent;
+  transform: rotate(-90deg);
+  cursor: pointer;
+  position: absolute;
+}
+
+.vertical-slider::-webkit-slider-runnable-track {
+  height: 8px;
+  border-radius: 4px;
+  background: transparent;
+}
+
+.vertical-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: var(--thumb-color, var(--color-slider-thumb));
+  border: 2px solid white;
+  margin-top: -5px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+/* Horizontal volume slider */
+.volume-slider {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 8px;
+  border-radius: 4px;
+  background: var(--color-slider-track);
+  cursor: pointer;
+  outline: none;
+}
+
+.volume-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: var(--color-slider-thumb);
+  border: 2px solid white;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
