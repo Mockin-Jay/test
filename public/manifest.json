@@ -1,0 +1,3855 @@
+{
+  "layers": [
+    {
+      "layerNum": 1,
+      "folderName": "1. SFX",
+      "assets": [
+        {
+          "id": "sfx_atomic_front",
+          "name": "Sfx Atomic Front",
+          "type": "png-animation",
+          "path": "1. SFX/sfx_atomic_front",
+          "subLayers": [
+            {
+              "name": "1. Particles",
+              "frameCount": 80,
+              "prefix": "Particles",
+              "bounds": {
+                "width": 1999,
+                "height": 788,
+                "offsetX": 527,
+                "offsetY": 1532
+              },
+              "alphaOnly": true,
+              "bcFile": "1. SFX/sfx_atomic_front/1. Particles.bcf",
+              "bcWidth": 2000,
+              "bcHeight": 788
+            },
+            {
+              "name": "2. Aura Line",
+              "frameCount": 80,
+              "prefix": "Auraline",
+              "alphaOnly": true,
+              "bcFile": "1. SFX/sfx_atomic_front/2. Aura Line.bcf",
+              "bcWidth": 3000,
+              "bcHeight": 2320
+            },
+            {
+              "name": "3. Aura Glow",
+              "frameCount": 80,
+              "prefix": "Auraglow",
+              "alphaOnly": true,
+              "bcFile": "1. SFX/sfx_atomic_front/3. Aura Glow.bcf",
+              "bcWidth": 3000,
+              "bcHeight": 2320
+            }
+          ]
+        },
+        {
+          "id": "sfx_butterfly_front",
+          "name": "Sfx Butterfly Front",
+          "type": "png-animation",
+          "path": "1. SFX/sfx_butterfly_front",
+          "subLayers": [
+            {
+              "name": "1. Outer Glow",
+              "frameCount": 80,
+              "prefix": "butterflyouterglow",
+              "bounds": {
+                "width": 1822,
+                "height": 1586,
+                "offsetX": 662,
+                "offsetY": 532
+              },
+              "alphaOnly": true,
+              "bcFile": "1. SFX/sfx_butterfly_front/1. Outer Glow.bcf",
+              "bcWidth": 1824,
+              "bcHeight": 1588
+            },
+            {
+              "name": "2. Base",
+              "frameCount": 80,
+              "prefix": "butterflybase",
+              "bounds": {
+                "width": 1809,
+                "height": 1575,
+                "offsetX": 668,
+                "offsetY": 538
+              },
+              "alphaOnly": true,
+              "bcFile": "1. SFX/sfx_butterfly_front/2. Base.bcf",
+              "bcWidth": 1812,
+              "bcHeight": 1576
+            },
+            {
+              "name": "3. Back Glow",
+              "frameCount": 80,
+              "prefix": "butterflybackglow",
+              "bounds": {
+                "width": 1865,
+                "height": 1622,
+                "offsetX": 642,
+                "offsetY": 514
+              },
+              "alphaOnly": true,
+              "bcFile": "1. SFX/sfx_butterfly_front/3. Back Glow.bcf",
+              "bcWidth": 1868,
+              "bcHeight": 1624
+            }
+          ]
+        },
+        {
+          "id": "sfx_expression_happy",
+          "name": "Sfx Expression Happy",
+          "type": "png-animation",
+          "path": "1. SFX/sfx_expression_happy",
+          "subLayers": [
+            {
+              "name": "sfx_expression_happy",
+              "frameCount": 35,
+              "prefix": "Sparkles"
+            }
+          ]
+        },
+        {
+          "id": "sfx_expression_mad",
+          "name": "Sfx Expression Mad",
+          "type": "png-animation",
+          "path": "1. SFX/sfx_expression_mad",
+          "subLayers": [
+            {
+              "name": "1. Outline",
+              "frameCount": 35,
+              "prefix": "Outline",
+              "bounds": {
+                "width": 386,
+                "height": 397,
+                "offsetX": 1549,
+                "offsetY": 737
+              },
+              "alphaOnly": true,
+              "bcFile": "1. SFX/sfx_expression_mad/1. Outline.bcf",
+              "bcWidth": 388,
+              "bcHeight": 400
+            },
+            {
+              "name": "2. Fill",
+              "frameCount": 35,
+              "prefix": "Fill",
+              "bounds": {
+                "width": 386,
+                "height": 397,
+                "offsetX": 1549,
+                "offsetY": 737
+              },
+              "alphaOnly": false,
+              "bcFile": "1. SFX/sfx_expression_mad/2. Fill.bcf",
+              "bcWidth": 388,
+              "bcHeight": 400
+            }
+          ]
+        },
+        {
+          "id": "sfx_expression_nervous",
+          "name": "Sfx Expression Nervous",
+          "type": "png-animation",
+          "path": "1. SFX/sfx_expression_nervous",
+          "subLayers": [
+            {
+              "name": "sfx_expression_nervous",
+              "frameCount": 15,
+              "prefix": "Sweating"
+            }
+          ]
+        },
+        {
+          "id": "sfx_foxfire_front",
+          "name": "Sfx Foxfire Front",
+          "type": "png-animation",
+          "path": "1. SFX/sfx_foxfire_front",
+          "subLayers": [
+            {
+              "name": "1. Inner Glow",
+              "frameCount": 70,
+              "prefix": "Foxfireinnerglow",
+              "bounds": {
+                "width": 1662,
+                "height": 320,
+                "offsetX": 748,
+                "offsetY": 1767
+              },
+              "alphaOnly": true,
+              "bcFile": "1. SFX/sfx_foxfire_front/1. Inner Glow.bcf",
+              "bcWidth": 1664,
+              "bcHeight": 320
+            },
+            {
+              "name": "2. Middle Glow",
+              "frameCount": 70,
+              "prefix": "Foxfiremiddleglow",
+              "bounds": {
+                "width": 1740,
+                "height": 387,
+                "offsetX": 709,
+                "offsetY": 1731
+              },
+              "alphaOnly": true,
+              "bcFile": "1. SFX/sfx_foxfire_front/2. Middle Glow.bcf",
+              "bcWidth": 1740,
+              "bcHeight": 388
+            },
+            {
+              "name": "3. Outer Glow",
+              "frameCount": 70,
+              "prefix": "Foxfireouterglow",
+              "bounds": {
+                "width": 1881,
+                "height": 698,
+                "offsetX": 635,
+                "offsetY": 1427
+              },
+              "alphaOnly": true,
+              "bcFile": "1. SFX/sfx_foxfire_front/3. Outer Glow.bcf",
+              "bcWidth": 1884,
+              "bcHeight": 700
+            }
+          ]
+        },
+        {
+          "id": "sfx_lightning",
+          "name": "Sfx Lightning",
+          "type": "png-animation",
+          "path": "1. SFX/sfx_lightning",
+          "subLayers": [
+            {
+              "name": "1. Base",
+              "frameCount": 70,
+              "prefix": "Lightningbase",
+              "alphaOnly": true,
+              "bcFile": "1. SFX/sfx_lightning/1. Base.bcf",
+              "bcWidth": 3200,
+              "bcHeight": 2320
+            },
+            {
+              "name": "2. Glow",
+              "frameCount": 70,
+              "prefix": "Lightningglow",
+              "alphaOnly": true,
+              "bcFile": "1. SFX/sfx_lightning/2. Glow.bcf",
+              "bcWidth": 3200,
+              "bcHeight": 2320
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "layerNum": 2,
+      "folderName": "2. Front Ribbon",
+      "assets": [
+        {
+          "id": "ribbon_front_1",
+          "name": "Ribbon Front 1",
+          "type": "svg",
+          "path": "2. Front Ribbon/ribbon_front_1.svg"
+        },
+        {
+          "id": "ribbon_front_2",
+          "name": "Ribbon Front 2",
+          "type": "svg",
+          "path": "2. Front Ribbon/ribbon_front_2.svg"
+        },
+        {
+          "id": "ribbon_front_3",
+          "name": "Ribbon Front 3",
+          "type": "svg",
+          "path": "2. Front Ribbon/ribbon_front_3.svg"
+        },
+        {
+          "id": "ribbon_front_4",
+          "name": "Ribbon Front 4",
+          "type": "svg",
+          "path": "2. Front Ribbon/ribbon_front_4.svg"
+        },
+        {
+          "id": "ribbon_front_5",
+          "name": "Ribbon Front 5",
+          "type": "svg",
+          "path": "2. Front Ribbon/ribbon_front_5.svg"
+        },
+        {
+          "id": "ribbon_front_6",
+          "name": "Ribbon Front 6",
+          "type": "svg",
+          "path": "2. Front Ribbon/ribbon_front_6.svg"
+        },
+        {
+          "id": "ribbon_front_7",
+          "name": "Ribbon Front 7",
+          "type": "svg",
+          "path": "2. Front Ribbon/ribbon_front_7.svg"
+        },
+        {
+          "id": "ribbon_front_8",
+          "name": "Ribbon Front 8",
+          "type": "svg",
+          "path": "2. Front Ribbon/ribbon_front_8.svg"
+        },
+        {
+          "id": "ribbon_front_9",
+          "name": "Ribbon Front 9",
+          "type": "svg",
+          "path": "2. Front Ribbon/ribbon_front_9.svg"
+        },
+        {
+          "id": "ribbon_front_10",
+          "name": "Ribbon Front 10",
+          "type": "svg",
+          "path": "2. Front Ribbon/ribbon_front_10.svg"
+        },
+        {
+          "id": "ribbon_front_11",
+          "name": "Ribbon Front 11",
+          "type": "svg",
+          "path": "2. Front Ribbon/ribbon_front_11.svg"
+        },
+        {
+          "id": "ribbon_front_12",
+          "name": "Ribbon Front 12",
+          "type": "svg",
+          "path": "2. Front Ribbon/ribbon_front_12.svg"
+        },
+        {
+          "id": "ribbon_front_13",
+          "name": "Ribbon Front 13",
+          "type": "svg",
+          "path": "2. Front Ribbon/ribbon_front_13.svg"
+        },
+        {
+          "id": "ribbon_front_14",
+          "name": "Ribbon Front 14",
+          "type": "svg",
+          "path": "2. Front Ribbon/ribbon_front_14.svg"
+        },
+        {
+          "id": "ribbon_front_15",
+          "name": "Ribbon Front 15",
+          "type": "svg",
+          "path": "2. Front Ribbon/ribbon_front_15.svg"
+        },
+        {
+          "id": "ribbon_front_16",
+          "name": "Ribbon Front 16",
+          "type": "svg",
+          "path": "2. Front Ribbon/ribbon_front_16.svg"
+        },
+        {
+          "id": "ribbon_front_17",
+          "name": "Ribbon Front 17",
+          "type": "svg",
+          "path": "2. Front Ribbon/ribbon_front_17.svg"
+        },
+        {
+          "id": "ribbon_front_18",
+          "name": "Ribbon Front 18",
+          "type": "svg",
+          "path": "2. Front Ribbon/ribbon_front_18.svg"
+        },
+        {
+          "id": "ribbon_front_19",
+          "name": "Ribbon Front 19",
+          "type": "svg",
+          "path": "2. Front Ribbon/ribbon_front_19.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 3,
+      "folderName": "3. Front Hat",
+      "assets": [
+        {
+          "id": "hat_front_1",
+          "name": "Hat Front 1",
+          "type": "svg",
+          "path": "3. Front Hat/hat_front_1.svg"
+        },
+        {
+          "id": "hat_front_2",
+          "name": "Hat Front 2",
+          "type": "svg",
+          "path": "3. Front Hat/hat_front_2.svg"
+        },
+        {
+          "id": "hat_front_3",
+          "name": "Hat Front 3",
+          "type": "svg",
+          "path": "3. Front Hat/hat_front_3.svg"
+        },
+        {
+          "id": "hat_front_4",
+          "name": "Hat Front 4",
+          "type": "svg",
+          "path": "3. Front Hat/hat_front_4.svg"
+        },
+        {
+          "id": "hat_front_5",
+          "name": "Hat Front 5",
+          "type": "svg",
+          "path": "3. Front Hat/hat_front_5.svg"
+        },
+        {
+          "id": "hat_front_5_mask",
+          "name": "Hat Front 5 Mask",
+          "type": "png",
+          "path": "3. Front Hat/hat_front_5_mask.png"
+        },
+        {
+          "id": "hat_front_6_a",
+          "name": "Hat Front 6 A",
+          "type": "svg",
+          "path": "3. Front Hat/hat_front_6_A.svg"
+        },
+        {
+          "id": "hat_front_6_a_and_b_mask",
+          "name": "Hat Front 6 A And B Mask",
+          "type": "png",
+          "path": "3. Front Hat/hat_front_6_A&B_mask.png"
+        },
+        {
+          "id": "hat_front_6_b",
+          "name": "Hat Front 6 B",
+          "type": "svg",
+          "path": "3. Front Hat/hat_front_6_B.svg"
+        },
+        {
+          "id": "hat_front_7",
+          "name": "Hat Front 7",
+          "type": "svg",
+          "path": "3. Front Hat/hat_front_7.svg"
+        },
+        {
+          "id": "hat_front_8",
+          "name": "Hat Front 8",
+          "type": "svg",
+          "path": "3. Front Hat/hat_front_8.svg"
+        },
+        {
+          "id": "hat_front_9",
+          "name": "Hat Front 9",
+          "type": "svg",
+          "path": "3. Front Hat/hat_front_9.svg"
+        },
+        {
+          "id": "hat_front_10",
+          "name": "Hat Front 10",
+          "type": "png-stack",
+          "path": "3. Front Hat/hat_front_10 (goes with it)",
+          "subLayerCount": 3
+        },
+        {
+          "id": "hat_front_10",
+          "name": "Hat Front 10",
+          "type": "svg",
+          "path": "3. Front Hat/hat_front_10.svg"
+        },
+        {
+          "id": "hat_front_11_a",
+          "name": "Hat Front 11 A",
+          "type": "svg",
+          "path": "3. Front Hat/hat_front_11_A.svg"
+        },
+        {
+          "id": "hat_front_11_b",
+          "name": "Hat Front 11 B",
+          "type": "png-stack",
+          "path": "3. Front Hat/hat_front_11_B",
+          "subLayerCount": 2
+        }
+      ]
+    },
+    {
+      "layerNum": 4,
+      "folderName": "4. Right Hand",
+      "assets": [
+        {
+          "id": "hand_right_1",
+          "name": "Hand Right 1",
+          "type": "png-stack",
+          "path": "4. Right Hand/hand_right_1",
+          "subLayerCount": 4
+        },
+        {
+          "id": "hand_right_2",
+          "name": "Hand Right 2",
+          "type": "png-stack",
+          "path": "4. Right Hand/hand_right_2",
+          "subLayerCount": 4
+        },
+        {
+          "id": "hand_right_3",
+          "name": "Hand Right 3",
+          "type": "png-stack",
+          "path": "4. Right Hand/hand_right_3",
+          "subLayerCount": 4
+        },
+        {
+          "id": "hand_right_4",
+          "name": "Hand Right 4",
+          "type": "png-stack",
+          "path": "4. Right Hand/hand_right_4",
+          "subLayerCount": 4
+        },
+        {
+          "id": "hand_right_5",
+          "name": "Hand Right 5",
+          "type": "png-stack",
+          "path": "4. Right Hand/hand_right_5",
+          "subLayerCount": 4
+        },
+        {
+          "id": "hand_right_6",
+          "name": "Hand Right 6",
+          "type": "png-stack",
+          "path": "4. Right Hand/hand_right_6",
+          "subLayerCount": 4
+        },
+        {
+          "id": "hand_right_7",
+          "name": "Hand Right 7",
+          "type": "png-stack",
+          "path": "4. Right Hand/hand_right_7",
+          "subLayerCount": 3
+        },
+        {
+          "id": "hand_right_8",
+          "name": "Hand Right 8",
+          "type": "png-stack",
+          "path": "4. Right Hand/hand_right_8",
+          "subLayerCount": 4
+        },
+        {
+          "id": "hand_right_9",
+          "name": "Hand Right 9",
+          "type": "png-stack",
+          "path": "4. Right Hand/hand_right_9",
+          "subLayerCount": 4
+        }
+      ]
+    },
+    {
+      "layerNum": 5,
+      "folderName": "5. Left Hand",
+      "assets": [
+        {
+          "id": "hand_left_1",
+          "name": "Hand Left 1",
+          "type": "png-stack",
+          "path": "5. Left Hand/hand_left_1",
+          "subLayerCount": 4
+        },
+        {
+          "id": "hand_left_2",
+          "name": "Hand Left 2",
+          "type": "png-stack",
+          "path": "5. Left Hand/hand_left_2",
+          "subLayerCount": 4
+        },
+        {
+          "id": "hand_left_3",
+          "name": "Hand Left 3",
+          "type": "png-stack",
+          "path": "5. Left Hand/hand_left_3",
+          "subLayerCount": 4
+        },
+        {
+          "id": "hand_left_4",
+          "name": "Hand Left 4",
+          "type": "png-stack",
+          "path": "5. Left Hand/hand_left_4",
+          "subLayerCount": 4
+        },
+        {
+          "id": "hand_left_5",
+          "name": "Hand Left 5",
+          "type": "png-stack",
+          "path": "5. Left Hand/hand_left_5",
+          "subLayerCount": 4
+        },
+        {
+          "id": "hand_left_6",
+          "name": "Hand Left 6",
+          "type": "png-stack",
+          "path": "5. Left Hand/hand_left_6",
+          "subLayerCount": 4
+        },
+        {
+          "id": "hand_left_7",
+          "name": "Hand Left 7",
+          "type": "png-stack",
+          "path": "5. Left Hand/hand_left_7",
+          "subLayerCount": 3
+        },
+        {
+          "id": "hand_left_8",
+          "name": "Hand Left 8",
+          "type": "png-stack",
+          "path": "5. Left Hand/hand_left_8",
+          "subLayerCount": 4
+        },
+        {
+          "id": "hand_left_9",
+          "name": "Hand Left 9",
+          "type": "png-stack",
+          "path": "5. Left Hand/hand_left_9",
+          "subLayerCount": 4
+        }
+      ]
+    },
+    {
+      "layerNum": 6,
+      "folderName": "6. Both Hand",
+      "assets": [
+        {
+          "id": "hand_both_1",
+          "name": "Hand Both 1",
+          "type": "png-stack",
+          "path": "6. Both Hand/hand_both_1",
+          "subLayerCount": 3
+        },
+        {
+          "id": "hand_both_2",
+          "name": "Hand Both 2",
+          "type": "png-stack",
+          "path": "6. Both Hand/hand_both_2",
+          "subLayerCount": 3
+        },
+        {
+          "id": "hand_both_3",
+          "name": "Hand Both 3",
+          "type": "png-stack",
+          "path": "6. Both Hand/hand_both_3",
+          "subLayerCount": 3
+        },
+        {
+          "id": "hand_both_4",
+          "name": "Hand Both 4",
+          "type": "png-stack",
+          "path": "6. Both Hand/hand_both_4",
+          "subLayerCount": 3
+        },
+        {
+          "id": "hand_both_5",
+          "name": "Hand Both 5",
+          "type": "png-stack",
+          "path": "6. Both Hand/hand_both_5",
+          "subLayerCount": 3
+        }
+      ]
+    },
+    {
+      "layerNum": 7,
+      "folderName": "7. Eyebrow",
+      "assets": [
+        {
+          "id": "eyebrow_1",
+          "name": "Eyebrow 1",
+          "type": "svg",
+          "path": "7. Eyebrow/eyebrow_1.svg"
+        },
+        {
+          "id": "eyebrow_2",
+          "name": "Eyebrow 2",
+          "type": "svg",
+          "path": "7. Eyebrow/eyebrow_2.svg"
+        },
+        {
+          "id": "eyebrow_3",
+          "name": "Eyebrow 3",
+          "type": "svg",
+          "path": "7. Eyebrow/eyebrow_3.svg"
+        },
+        {
+          "id": "eyebrow_4",
+          "name": "Eyebrow 4",
+          "type": "svg",
+          "path": "7. Eyebrow/eyebrow_4.svg"
+        },
+        {
+          "id": "eyebrow_5",
+          "name": "Eyebrow 5",
+          "type": "svg",
+          "path": "7. Eyebrow/eyebrow_5.svg"
+        },
+        {
+          "id": "eyebrow_6",
+          "name": "Eyebrow 6",
+          "type": "svg",
+          "path": "7. Eyebrow/eyebrow_6.svg"
+        },
+        {
+          "id": "eyebrow_7",
+          "name": "Eyebrow 7",
+          "type": "svg",
+          "path": "7. Eyebrow/eyebrow_7.svg"
+        },
+        {
+          "id": "eyebrow_8",
+          "name": "Eyebrow 8",
+          "type": "svg",
+          "path": "7. Eyebrow/eyebrow_8.svg"
+        },
+        {
+          "id": "eyebrow_9",
+          "name": "Eyebrow 9",
+          "type": "svg",
+          "path": "7. Eyebrow/eyebrow_9.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 8,
+      "folderName": "8. Cowlick and Animal Ear",
+      "assets": [
+        {
+          "id": "animal_ear_front_1",
+          "name": "Animal Ear Front 1",
+          "type": "svg",
+          "path": "8. Cowlick and Animal Ear/animal-ear_front_1.svg"
+        },
+        {
+          "id": "animal_ear_front_2",
+          "name": "Animal Ear Front 2",
+          "type": "svg",
+          "path": "8. Cowlick and Animal Ear/animal-ear_front_2.svg"
+        },
+        {
+          "id": "animal_ear_front_3",
+          "name": "Animal Ear Front 3",
+          "type": "svg",
+          "path": "8. Cowlick and Animal Ear/animal-ear_front_3.svg"
+        },
+        {
+          "id": "animal_ear_front_4",
+          "name": "Animal Ear Front 4",
+          "type": "svg",
+          "path": "8. Cowlick and Animal Ear/animal-ear_front_4.svg"
+        },
+        {
+          "id": "animal_ear_front_5",
+          "name": "Animal Ear Front 5",
+          "type": "svg",
+          "path": "8. Cowlick and Animal Ear/animal-ear_front_5.svg"
+        },
+        {
+          "id": "animal_ear_front_6",
+          "name": "Animal Ear Front 6",
+          "type": "svg",
+          "path": "8. Cowlick and Animal Ear/animal-ear_front_6.svg"
+        },
+        {
+          "id": "animal_ear_front_7",
+          "name": "Animal Ear Front 7",
+          "type": "svg",
+          "path": "8. Cowlick and Animal Ear/animal-ear_front_7.svg"
+        },
+        {
+          "id": "animal_ear_front_8",
+          "name": "Animal Ear Front 8",
+          "type": "svg",
+          "path": "8. Cowlick and Animal Ear/animal-ear_front_8.svg"
+        },
+        {
+          "id": "animal_ear_front_9",
+          "name": "Animal Ear Front 9",
+          "type": "svg",
+          "path": "8. Cowlick and Animal Ear/animal-ear_front_9.svg"
+        },
+        {
+          "id": "animal_ear_front_10",
+          "name": "Animal Ear Front 10",
+          "type": "svg",
+          "path": "8. Cowlick and Animal Ear/animal-ear_front_10.svg"
+        },
+        {
+          "id": "animal_ear_front_11",
+          "name": "Animal Ear Front 11",
+          "type": "svg",
+          "path": "8. Cowlick and Animal Ear/animal-ear_front_11.svg"
+        },
+        {
+          "id": "animal_ear_front_12",
+          "name": "Animal Ear Front 12",
+          "type": "svg",
+          "path": "8. Cowlick and Animal Ear/animal-ear_front_12.svg"
+        },
+        {
+          "id": "animal_ear_front_13",
+          "name": "Animal Ear Front 13",
+          "type": "svg",
+          "path": "8. Cowlick and Animal Ear/animal-ear_front_13.svg"
+        },
+        {
+          "id": "animal_ear_front_14",
+          "name": "Animal Ear Front 14",
+          "type": "svg",
+          "path": "8. Cowlick and Animal Ear/animal-ear_front_14.svg"
+        },
+        {
+          "id": "animal_ear_front_15",
+          "name": "Animal Ear Front 15",
+          "type": "svg",
+          "path": "8. Cowlick and Animal Ear/animal-ear_front_15.svg"
+        },
+        {
+          "id": "animal_ear_front_16",
+          "name": "Animal Ear Front 16",
+          "type": "svg",
+          "path": "8. Cowlick and Animal Ear/animal-ear_front_16.svg"
+        },
+        {
+          "id": "animal_ear_front_17",
+          "name": "Animal Ear Front 17",
+          "type": "svg",
+          "path": "8. Cowlick and Animal Ear/animal-ear_front_17.svg"
+        },
+        {
+          "id": "animal_ear_front_18",
+          "name": "Animal Ear Front 18",
+          "type": "svg",
+          "path": "8. Cowlick and Animal Ear/animal-ear_front_18.svg"
+        },
+        {
+          "id": "animal_ear_front_25",
+          "name": "Animal Ear Front 25",
+          "type": "svg",
+          "path": "8. Cowlick and Animal Ear/animal-ear_front_25.svg"
+        },
+        {
+          "id": "cowlick_19",
+          "name": "Cowlick 19",
+          "type": "svg",
+          "path": "8. Cowlick and Animal Ear/cowlick_19.svg"
+        },
+        {
+          "id": "cowlick_20",
+          "name": "Cowlick 20",
+          "type": "svg",
+          "path": "8. Cowlick and Animal Ear/cowlick_20.svg"
+        },
+        {
+          "id": "cowlick_21",
+          "name": "Cowlick 21",
+          "type": "svg",
+          "path": "8. Cowlick and Animal Ear/cowlick_21.svg"
+        },
+        {
+          "id": "cowlick_22",
+          "name": "Cowlick 22",
+          "type": "svg",
+          "path": "8. Cowlick and Animal Ear/cowlick_22.svg"
+        },
+        {
+          "id": "cowlick_23",
+          "name": "Cowlick 23",
+          "type": "svg",
+          "path": "8. Cowlick and Animal Ear/cowlick_23.svg"
+        },
+        {
+          "id": "cowlick_24",
+          "name": "Cowlick 24",
+          "type": "svg",
+          "path": "8. Cowlick and Animal Ear/cowlick_24.svg"
+        },
+        {
+          "id": "cowlick_26",
+          "name": "Cowlick 26",
+          "type": "svg",
+          "path": "8. Cowlick and Animal Ear/cowlick_26.svg"
+        },
+        {
+          "id": "cowlick_27",
+          "name": "Cowlick 27",
+          "type": "svg",
+          "path": "8. Cowlick and Animal Ear/cowlick_27.svg"
+        },
+        {
+          "id": "cowlick_28",
+          "name": "Cowlick 28",
+          "type": "svg",
+          "path": "8. Cowlick and Animal Ear/cowlick_28.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 9,
+      "folderName": "9. Glasses",
+      "assets": [
+        {
+          "id": "glasses_1",
+          "name": "Glasses 1",
+          "type": "svg",
+          "path": "9. Glasses/glasses_1.svg"
+        },
+        {
+          "id": "glasses_2",
+          "name": "Glasses 2",
+          "type": "svg",
+          "path": "9. Glasses/glasses_2.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 10,
+      "folderName": "10. Right Iris",
+      "assets": [
+        {
+          "id": "iris_right_1",
+          "name": "Iris Right 1",
+          "type": "svg",
+          "path": "10. Right Iris/iris_right_1.svg"
+        },
+        {
+          "id": "iris_right_2",
+          "name": "Iris Right 2",
+          "type": "png-stack",
+          "path": "10. Right Iris/iris_right_2",
+          "subLayerCount": 2
+        },
+        {
+          "id": "iris_right_3",
+          "name": "Iris Right 3",
+          "type": "png-stack",
+          "path": "10. Right Iris/iris_right_3",
+          "subLayerCount": 2
+        },
+        {
+          "id": "iris_right_4",
+          "name": "Iris Right 4",
+          "type": "png-stack",
+          "path": "10. Right Iris/iris_right_4",
+          "subLayerCount": 2
+        },
+        {
+          "id": "iris_right_5",
+          "name": "Iris Right 5",
+          "type": "png-stack",
+          "path": "10. Right Iris/iris_right_5",
+          "subLayerCount": 2
+        },
+        {
+          "id": "iris_right_6",
+          "name": "Iris Right 6",
+          "type": "png-stack",
+          "path": "10. Right Iris/iris_right_6",
+          "subLayerCount": 2
+        },
+        {
+          "id": "iris_right_7",
+          "name": "Iris Right 7",
+          "type": "png-stack",
+          "path": "10. Right Iris/iris_right_7",
+          "subLayerCount": 2
+        },
+        {
+          "id": "iris_right_8",
+          "name": "Iris Right 8",
+          "type": "png-stack",
+          "path": "10. Right Iris/iris_right_8",
+          "subLayerCount": 2
+        },
+        {
+          "id": "iris_right_9",
+          "name": "Iris Right 9",
+          "type": "png-stack",
+          "path": "10. Right Iris/iris_right_9",
+          "subLayerCount": 2
+        },
+        {
+          "id": "sfx_happy_iris_right",
+          "name": "Sfx Happy Iris Right",
+          "type": "png-animation",
+          "path": "10. Right Iris/sfx_happy_iris_right",
+          "subLayers": [
+            {
+              "name": "sfx_happy_iris_right",
+              "frameCount": 35,
+              "prefix": "SparkleEyeRight"
+            }
+          ]
+        },
+        {
+          "id": "sfx_sad_iris_right",
+          "name": "Sfx Sad Iris Right",
+          "type": "png-animation",
+          "path": "10. Right Iris/sfx_sad_iris_right",
+          "subLayers": [
+            {
+              "name": "sfx_sad_iris_right",
+              "frameCount": 56,
+              "prefix": "CryingEyeRight"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "layerNum": 11,
+      "folderName": "11. Left Iris",
+      "assets": [
+        {
+          "id": "iris_left_1",
+          "name": "Iris Left 1",
+          "type": "svg",
+          "path": "11. Left Iris/iris_left_1.svg"
+        },
+        {
+          "id": "iris_left_2",
+          "name": "Iris Left 2",
+          "type": "png-stack",
+          "path": "11. Left Iris/iris_left_2",
+          "subLayerCount": 2
+        },
+        {
+          "id": "iris_left_3",
+          "name": "Iris Left 3",
+          "type": "png-stack",
+          "path": "11. Left Iris/iris_left_3",
+          "subLayerCount": 2
+        },
+        {
+          "id": "iris_left_4",
+          "name": "Iris Left 4",
+          "type": "png-stack",
+          "path": "11. Left Iris/iris_left_4",
+          "subLayerCount": 2
+        },
+        {
+          "id": "iris_left_5",
+          "name": "Iris Left 5",
+          "type": "png-stack",
+          "path": "11. Left Iris/iris_left_5",
+          "subLayerCount": 2
+        },
+        {
+          "id": "iris_left_6",
+          "name": "Iris Left 6",
+          "type": "png-stack",
+          "path": "11. Left Iris/iris_left_6",
+          "subLayerCount": 2
+        },
+        {
+          "id": "iris_left_7",
+          "name": "Iris Left 7",
+          "type": "png-stack",
+          "path": "11. Left Iris/iris_left_7",
+          "subLayerCount": 2
+        },
+        {
+          "id": "iris_left_8",
+          "name": "Iris Left 8",
+          "type": "png-stack",
+          "path": "11. Left Iris/iris_left_8",
+          "subLayerCount": 2
+        },
+        {
+          "id": "iris_left_9",
+          "name": "Iris Left 9",
+          "type": "png-stack",
+          "path": "11. Left Iris/iris_left_9",
+          "subLayerCount": 2
+        },
+        {
+          "id": "sfx_happy_iris_left",
+          "name": "Sfx Happy Iris Left",
+          "type": "png-animation",
+          "path": "11. Left Iris/sfx_happy_iris_left",
+          "subLayers": [
+            {
+              "name": "sfx_happy_iris_left",
+              "frameCount": 35,
+              "prefix": "SparkleEyeLeft"
+            }
+          ]
+        },
+        {
+          "id": "sfx_sad_iris_left",
+          "name": "Sfx Sad Iris Left",
+          "type": "png-animation",
+          "path": "11. Left Iris/sfx_sad_iris_left",
+          "subLayers": [
+            {
+              "name": "sfx_sad_iris_left",
+              "frameCount": 56,
+              "prefix": "CryingEyeLeft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "layerNum": 12,
+      "folderName": "12. Right Eye Shape",
+      "assets": [
+        {
+          "id": "eye_shape_right_1_a",
+          "name": "Eye Shape Right 1 A",
+          "type": "svg",
+          "path": "12. Right Eye Shape/eye-shape_right_1_A.svg"
+        },
+        {
+          "id": "eye_shape_right_1_b",
+          "name": "Eye Shape Right 1 B",
+          "type": "svg",
+          "path": "12. Right Eye Shape/eye-shape_right_1_B.svg"
+        },
+        {
+          "id": "eye_shape_right_2_a",
+          "name": "Eye Shape Right 2 A",
+          "type": "svg",
+          "path": "12. Right Eye Shape/eye-shape_right_2_A.svg"
+        },
+        {
+          "id": "eye_shape_right_2_b",
+          "name": "Eye Shape Right 2 B",
+          "type": "svg",
+          "path": "12. Right Eye Shape/eye-shape_right_2_B.svg"
+        },
+        {
+          "id": "eye_shape_right_3_a",
+          "name": "Eye Shape Right 3 A",
+          "type": "svg",
+          "path": "12. Right Eye Shape/eye-shape_right_3_A.svg"
+        },
+        {
+          "id": "eye_shape_right_3_b",
+          "name": "Eye Shape Right 3 B",
+          "type": "svg",
+          "path": "12. Right Eye Shape/eye-shape_right_3_B.svg"
+        },
+        {
+          "id": "eye_shape_right_4_a",
+          "name": "Eye Shape Right 4 A",
+          "type": "svg",
+          "path": "12. Right Eye Shape/eye-shape_right_4_A.svg"
+        },
+        {
+          "id": "eye_shape_right_4_b",
+          "name": "Eye Shape Right 4 B",
+          "type": "svg",
+          "path": "12. Right Eye Shape/eye-shape_right_4_B.svg"
+        },
+        {
+          "id": "eye_shape_right_5_a",
+          "name": "Eye Shape Right 5 A",
+          "type": "svg",
+          "path": "12. Right Eye Shape/eye-shape_right_5_A.svg"
+        },
+        {
+          "id": "eye_shape_right_5_b",
+          "name": "Eye Shape Right 5 B",
+          "type": "svg",
+          "path": "12. Right Eye Shape/eye-shape_right_5_B.svg"
+        },
+        {
+          "id": "eye_shape_right_6",
+          "name": "Eye Shape Right 6",
+          "type": "svg",
+          "path": "12. Right Eye Shape/eye-shape_right_6.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 13,
+      "folderName": "13. Left Eye Shape",
+      "assets": [
+        {
+          "id": "eye_shape_left_1_a",
+          "name": "Eye Shape Left 1 A",
+          "type": "svg",
+          "path": "13. Left Eye Shape/eye-shape_left_1_A.svg"
+        },
+        {
+          "id": "eye_shape_left_1_b",
+          "name": "Eye Shape Left 1 B",
+          "type": "svg",
+          "path": "13. Left Eye Shape/eye-shape_left_1_B.svg"
+        },
+        {
+          "id": "eye_shape_left_2_a",
+          "name": "Eye Shape Left 2 A",
+          "type": "svg",
+          "path": "13. Left Eye Shape/eye-shape_left_2_A.svg"
+        },
+        {
+          "id": "eye_shape_left_2_b",
+          "name": "Eye Shape Left 2 B",
+          "type": "svg",
+          "path": "13. Left Eye Shape/eye-shape_left_2_B.svg"
+        },
+        {
+          "id": "eye_shape_left_3_a",
+          "name": "Eye Shape Left 3 A",
+          "type": "svg",
+          "path": "13. Left Eye Shape/eye-shape_left_3_A.svg"
+        },
+        {
+          "id": "eye_shape_left_3_b",
+          "name": "Eye Shape Left 3 B",
+          "type": "svg",
+          "path": "13. Left Eye Shape/eye-shape_left_3_B.svg"
+        },
+        {
+          "id": "eye_shape_left_4_a",
+          "name": "Eye Shape Left 4 A",
+          "type": "svg",
+          "path": "13. Left Eye Shape/eye-shape_left_4_A.svg"
+        },
+        {
+          "id": "eye_shape_left_4_b",
+          "name": "Eye Shape Left 4 B",
+          "type": "svg",
+          "path": "13. Left Eye Shape/eye-shape_left_4_B.svg"
+        },
+        {
+          "id": "eye_shape_left_5_a",
+          "name": "Eye Shape Left 5 A",
+          "type": "svg",
+          "path": "13. Left Eye Shape/eye-shape_left_5_A.svg"
+        },
+        {
+          "id": "eye_shape_left_5_b",
+          "name": "Eye Shape Left 5 B",
+          "type": "svg",
+          "path": "13. Left Eye Shape/eye-shape_left_5_B.svg"
+        },
+        {
+          "id": "eye_shape_left_6",
+          "name": "Eye Shape Left 6",
+          "type": "svg",
+          "path": "13. Left Eye Shape/eye-shape_left_6.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 14,
+      "folderName": "14. Right Pigtail",
+      "assets": [
+        {
+          "id": "pigtail_right_1",
+          "name": "Pigtail Right 1",
+          "type": "svg",
+          "path": "14. Right Pigtail/pigtail_right_1.svg"
+        },
+        {
+          "id": "pigtail_right_2",
+          "name": "Pigtail Right 2",
+          "type": "svg",
+          "path": "14. Right Pigtail/pigtail_right_2.svg"
+        },
+        {
+          "id": "pigtail_right_3",
+          "name": "Pigtail Right 3",
+          "type": "svg",
+          "path": "14. Right Pigtail/pigtail_right_3.svg"
+        },
+        {
+          "id": "pigtail_right_4",
+          "name": "Pigtail Right 4",
+          "type": "svg",
+          "path": "14. Right Pigtail/pigtail_right_4.svg"
+        },
+        {
+          "id": "pigtail_right_5",
+          "name": "Pigtail Right 5",
+          "type": "svg",
+          "path": "14. Right Pigtail/pigtail_right_5.svg"
+        },
+        {
+          "id": "pigtail_right_6",
+          "name": "Pigtail Right 6",
+          "type": "svg",
+          "path": "14. Right Pigtail/pigtail_right_6.svg"
+        },
+        {
+          "id": "pigtail_right_7",
+          "name": "Pigtail Right 7",
+          "type": "svg",
+          "path": "14. Right Pigtail/pigtail_right_7.svg"
+        },
+        {
+          "id": "pigtail_right_8",
+          "name": "Pigtail Right 8",
+          "type": "svg",
+          "path": "14. Right Pigtail/pigtail_right_8.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 15,
+      "folderName": "15. Right Bang",
+      "assets": [
+        {
+          "id": "bang_right_1",
+          "name": "Bang Right 1",
+          "type": "svg",
+          "path": "15. Right Bang/bang_right_1.svg"
+        },
+        {
+          "id": "bang_right_2",
+          "name": "Bang Right 2",
+          "type": "svg",
+          "path": "15. Right Bang/bang_right_2.svg"
+        },
+        {
+          "id": "bang_right_3",
+          "name": "Bang Right 3",
+          "type": "svg",
+          "path": "15. Right Bang/bang_right_3.svg"
+        },
+        {
+          "id": "bang_right_4",
+          "name": "Bang Right 4",
+          "type": "svg",
+          "path": "15. Right Bang/bang_right_4.svg"
+        },
+        {
+          "id": "bang_right_5",
+          "name": "Bang Right 5",
+          "type": "svg",
+          "path": "15. Right Bang/bang_right_5.svg"
+        },
+        {
+          "id": "bang_right_6",
+          "name": "Bang Right 6",
+          "type": "svg",
+          "path": "15. Right Bang/bang_right_6.svg"
+        },
+        {
+          "id": "bang_right_7",
+          "name": "Bang Right 7",
+          "type": "svg",
+          "path": "15. Right Bang/bang_right_7.svg"
+        },
+        {
+          "id": "bang_right_8",
+          "name": "Bang Right 8",
+          "type": "svg",
+          "path": "15. Right Bang/bang_right_8.svg"
+        },
+        {
+          "id": "bang_right_9",
+          "name": "Bang Right 9",
+          "type": "svg",
+          "path": "15. Right Bang/bang_right_9.svg"
+        },
+        {
+          "id": "bang_right_10",
+          "name": "Bang Right 10",
+          "type": "svg",
+          "path": "15. Right Bang/bang_right_10.svg"
+        },
+        {
+          "id": "bang_right_11",
+          "name": "Bang Right 11",
+          "type": "svg",
+          "path": "15. Right Bang/bang_right_11.svg"
+        },
+        {
+          "id": "bang_right_12",
+          "name": "Bang Right 12",
+          "type": "svg",
+          "path": "15. Right Bang/bang_right_12.svg"
+        },
+        {
+          "id": "bang_right_13",
+          "name": "Bang Right 13",
+          "type": "svg",
+          "path": "15. Right Bang/bang_right_13.svg"
+        },
+        {
+          "id": "bang_right_14",
+          "name": "Bang Right 14",
+          "type": "svg",
+          "path": "15. Right Bang/bang_right_14.svg"
+        },
+        {
+          "id": "bang_right_15",
+          "name": "Bang Right 15",
+          "type": "svg",
+          "path": "15. Right Bang/bang_right_15.svg"
+        },
+        {
+          "id": "bang_right_16",
+          "name": "Bang Right 16",
+          "type": "svg",
+          "path": "15. Right Bang/bang_right_16.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 16,
+      "folderName": "16. Back Hair Assist A",
+      "assets": [
+        {
+          "id": "hair_assist_back_12",
+          "name": "Hair Assist Back 12",
+          "type": "svg",
+          "path": "16. Back Hair Assist A/hair-assist_back_12.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 17,
+      "folderName": "17. Front Hair A",
+      "assets": [
+        {
+          "id": "hair_front_28",
+          "name": "Hair Front 28",
+          "type": "svg",
+          "path": "17. Front Hair A/hair_front_28.svg"
+        },
+        {
+          "id": "hair_front_29",
+          "name": "Hair Front 29",
+          "type": "svg",
+          "path": "17. Front Hair A/hair_front_29.svg"
+        },
+        {
+          "id": "hair_front_30",
+          "name": "Hair Front 30",
+          "type": "svg",
+          "path": "17. Front Hair A/hair_front_30.svg"
+        },
+        {
+          "id": "hair_front_31",
+          "name": "Hair Front 31",
+          "type": "svg",
+          "path": "17. Front Hair A/hair_front_31.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 18,
+      "folderName": "18. Left Bang",
+      "assets": [
+        {
+          "id": "bang_left_1",
+          "name": "Bang Left 1",
+          "type": "svg",
+          "path": "18. Left Bang/bang_left_1.svg"
+        },
+        {
+          "id": "bang_left_2",
+          "name": "Bang Left 2",
+          "type": "svg",
+          "path": "18. Left Bang/bang_left_2.svg"
+        },
+        {
+          "id": "bang_left_3",
+          "name": "Bang Left 3",
+          "type": "svg",
+          "path": "18. Left Bang/bang_left_3.svg"
+        },
+        {
+          "id": "bang_left_4",
+          "name": "Bang Left 4",
+          "type": "svg",
+          "path": "18. Left Bang/bang_left_4.svg"
+        },
+        {
+          "id": "bang_left_5",
+          "name": "Bang Left 5",
+          "type": "svg",
+          "path": "18. Left Bang/bang_left_5.svg"
+        },
+        {
+          "id": "bang_left_6",
+          "name": "Bang Left 6",
+          "type": "svg",
+          "path": "18. Left Bang/bang_left_6.svg"
+        },
+        {
+          "id": "bang_left_7",
+          "name": "Bang Left 7",
+          "type": "svg",
+          "path": "18. Left Bang/bang_left_7.svg"
+        },
+        {
+          "id": "bang_left_8",
+          "name": "Bang Left 8",
+          "type": "svg",
+          "path": "18. Left Bang/bang_left_8.svg"
+        },
+        {
+          "id": "bang_left_9",
+          "name": "Bang Left 9",
+          "type": "svg",
+          "path": "18. Left Bang/bang_left_9.svg"
+        },
+        {
+          "id": "bang_left_10",
+          "name": "Bang Left 10",
+          "type": "svg",
+          "path": "18. Left Bang/bang_left_10.svg"
+        },
+        {
+          "id": "bang_left_11",
+          "name": "Bang Left 11",
+          "type": "svg",
+          "path": "18. Left Bang/bang_left_11.svg"
+        },
+        {
+          "id": "bang_left_12",
+          "name": "Bang Left 12",
+          "type": "svg",
+          "path": "18. Left Bang/bang_left_12.svg"
+        },
+        {
+          "id": "bang_left_13",
+          "name": "Bang Left 13",
+          "type": "svg",
+          "path": "18. Left Bang/bang_left_13.svg"
+        },
+        {
+          "id": "bang_left_14",
+          "name": "Bang Left 14",
+          "type": "svg",
+          "path": "18. Left Bang/bang_left_14.svg"
+        },
+        {
+          "id": "bang_left_15",
+          "name": "Bang Left 15",
+          "type": "svg",
+          "path": "18. Left Bang/bang_left_15.svg"
+        },
+        {
+          "id": "bang_left_16",
+          "name": "Bang Left 16",
+          "type": "svg",
+          "path": "18. Left Bang/bang_left_16.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 19,
+      "folderName": "19. Front Hair B",
+      "assets": [
+        {
+          "id": "hair_front_1_elf",
+          "name": "Hair Front 1 Elf",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_1_elf.svg"
+        },
+        {
+          "id": "hair_front_1_human",
+          "name": "Hair Front 1 Human",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_1_human.svg"
+        },
+        {
+          "id": "hair_front_1_noears",
+          "name": "Hair Front 1 Noears",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_1_noears.svg"
+        },
+        {
+          "id": "hair_front_2_elf",
+          "name": "Hair Front 2 Elf",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_2_elf.svg"
+        },
+        {
+          "id": "hair_front_2_human",
+          "name": "Hair Front 2 Human",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_2_human.svg"
+        },
+        {
+          "id": "hair_front_2_noears",
+          "name": "Hair Front 2 Noears",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_2_noears.svg"
+        },
+        {
+          "id": "hair_front_3_elf",
+          "name": "Hair Front 3 Elf",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_3_elf.svg"
+        },
+        {
+          "id": "hair_front_3_human",
+          "name": "Hair Front 3 Human",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_3_human.svg"
+        },
+        {
+          "id": "hair_front_3_noears",
+          "name": "Hair Front 3 Noears",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_3_noears.svg"
+        },
+        {
+          "id": "hair_front_4_elf",
+          "name": "Hair Front 4 Elf",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_4_elf.svg"
+        },
+        {
+          "id": "hair_front_4_human",
+          "name": "Hair Front 4 Human",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_4_human.svg"
+        },
+        {
+          "id": "hair_front_4_noears",
+          "name": "Hair Front 4 Noears",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_4_noears.svg"
+        },
+        {
+          "id": "hair_front_5_elf",
+          "name": "Hair Front 5 Elf",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_5_elf.svg"
+        },
+        {
+          "id": "hair_front_5_human",
+          "name": "Hair Front 5 Human",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_5_human.svg"
+        },
+        {
+          "id": "hair_front_5_noears",
+          "name": "Hair Front 5 Noears",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_5_noears.svg"
+        },
+        {
+          "id": "hair_front_6_elf",
+          "name": "Hair Front 6 Elf",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_6_elf.svg"
+        },
+        {
+          "id": "hair_front_6_human",
+          "name": "Hair Front 6 Human",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_6_human.svg"
+        },
+        {
+          "id": "hair_front_6_noears",
+          "name": "Hair Front 6 Noears",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_6_noears.svg"
+        },
+        {
+          "id": "hair_front_7",
+          "name": "Hair Front 7",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_7.svg"
+        },
+        {
+          "id": "hair_front_8",
+          "name": "Hair Front 8",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_8.svg"
+        },
+        {
+          "id": "hair_front_9",
+          "name": "Hair Front 9",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_9.svg"
+        },
+        {
+          "id": "hair_front_10",
+          "name": "Hair Front 10",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_10.svg"
+        },
+        {
+          "id": "hair_front_11",
+          "name": "Hair Front 11",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_11.svg"
+        },
+        {
+          "id": "hair_front_12",
+          "name": "Hair Front 12",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_12.svg"
+        },
+        {
+          "id": "hair_front_13",
+          "name": "Hair Front 13",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_13.svg"
+        },
+        {
+          "id": "hair_front_14",
+          "name": "Hair Front 14",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_14.svg"
+        },
+        {
+          "id": "hair_front_15",
+          "name": "Hair Front 15",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_15.svg"
+        },
+        {
+          "id": "hair_front_16",
+          "name": "Hair Front 16",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_16.svg"
+        },
+        {
+          "id": "hair_front_17",
+          "name": "Hair Front 17",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_17.svg"
+        },
+        {
+          "id": "hair_front_18",
+          "name": "Hair Front 18",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_18.svg"
+        },
+        {
+          "id": "hair_front_19",
+          "name": "Hair Front 19",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_19.svg"
+        },
+        {
+          "id": "hair_front_20",
+          "name": "Hair Front 20",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_20.svg"
+        },
+        {
+          "id": "hair_front_21",
+          "name": "Hair Front 21",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_21.svg"
+        },
+        {
+          "id": "hair_front_22",
+          "name": "Hair Front 22",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_22.svg"
+        },
+        {
+          "id": "hair_front_23",
+          "name": "Hair Front 23",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_23.svg"
+        },
+        {
+          "id": "hair_front_24",
+          "name": "Hair Front 24",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_24.svg"
+        },
+        {
+          "id": "hair_front_25",
+          "name": "Hair Front 25",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_25.svg"
+        },
+        {
+          "id": "hair_front_26",
+          "name": "Hair Front 26",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_26.svg"
+        },
+        {
+          "id": "hair_front_27",
+          "name": "Hair Front 27",
+          "type": "svg",
+          "path": "19. Front Hair B/hair_front_27.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 20,
+      "folderName": "20. Mask and Marking",
+      "assets": [
+        {
+          "id": "marking_1",
+          "name": "Marking 1",
+          "type": "svg",
+          "path": "20. Mask and Marking/marking_1.svg"
+        },
+        {
+          "id": "marking_2",
+          "name": "Marking 2",
+          "type": "svg",
+          "path": "20. Mask and Marking/marking_2.svg"
+        },
+        {
+          "id": "marking_3",
+          "name": "Marking 3",
+          "type": "svg",
+          "path": "20. Mask and Marking/marking_3.svg"
+        },
+        {
+          "id": "marking_4",
+          "name": "Marking 4",
+          "type": "svg",
+          "path": "20. Mask and Marking/marking_4.svg"
+        },
+        {
+          "id": "marking_5",
+          "name": "Marking 5",
+          "type": "svg",
+          "path": "20. Mask and Marking/marking_5.svg"
+        },
+        {
+          "id": "marking_6",
+          "name": "Marking 6",
+          "type": "svg",
+          "path": "20. Mask and Marking/marking_6.svg"
+        },
+        {
+          "id": "marking_7",
+          "name": "Marking 7",
+          "type": "svg",
+          "path": "20. Mask and Marking/marking_7.svg"
+        },
+        {
+          "id": "marking_8",
+          "name": "Marking 8",
+          "type": "svg",
+          "path": "20. Mask and Marking/marking_8.svg"
+        },
+        {
+          "id": "marking_9",
+          "name": "Marking 9",
+          "type": "svg",
+          "path": "20. Mask and Marking/marking_9.svg"
+        },
+        {
+          "id": "marking_10",
+          "name": "Marking 10",
+          "type": "svg",
+          "path": "20. Mask and Marking/marking_10.svg"
+        },
+        {
+          "id": "mask_1",
+          "name": "Mask 1",
+          "type": "svg",
+          "path": "20. Mask and Marking/mask_1.svg"
+        },
+        {
+          "id": "mask_2",
+          "name": "Mask 2",
+          "type": "svg",
+          "path": "20. Mask and Marking/mask_2.svg"
+        },
+        {
+          "id": "mask_3",
+          "name": "Mask 3",
+          "type": "svg",
+          "path": "20. Mask and Marking/mask_3.svg"
+        },
+        {
+          "id": "mask_4",
+          "name": "Mask 4",
+          "type": "svg",
+          "path": "20. Mask and Marking/mask_4.svg"
+        },
+        {
+          "id": "mask_5",
+          "name": "Mask 5",
+          "type": "svg",
+          "path": "20. Mask and Marking/mask_5.svg"
+        },
+        {
+          "id": "mask_6",
+          "name": "Mask 6",
+          "type": "svg",
+          "path": "20. Mask and Marking/mask_6.svg"
+        },
+        {
+          "id": "mask_7",
+          "name": "Mask 7",
+          "type": "svg",
+          "path": "20. Mask and Marking/mask_7.svg"
+        },
+        {
+          "id": "mask_8",
+          "name": "Mask 8",
+          "type": "svg",
+          "path": "20. Mask and Marking/mask_8.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 21,
+      "folderName": "21. Back Hair Assist B",
+      "assets": [
+        {
+          "id": "hair_assist_back_17",
+          "name": "Hair Assist Back 17",
+          "type": "svg",
+          "path": "21. Back Hair Assist B/hair-assist_back_17.svg"
+        },
+        {
+          "id": "hair_assist_back_18",
+          "name": "Hair Assist Back 18",
+          "type": "svg",
+          "path": "21. Back Hair Assist B/hair-assist_back_18.svg"
+        },
+        {
+          "id": "hair_assist_back_19",
+          "name": "Hair Assist Back 19",
+          "type": "svg",
+          "path": "21. Back Hair Assist B/hair-assist_back_19.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 22,
+      "folderName": "22. Right Earring",
+      "assets": [
+        {
+          "id": "earring_right_1",
+          "name": "Earring Right 1",
+          "type": "svg",
+          "path": "22. Right Earring/earring_right_1.svg"
+        },
+        {
+          "id": "earring_right_2",
+          "name": "Earring Right 2",
+          "type": "svg",
+          "path": "22. Right Earring/earring_right_2.svg"
+        },
+        {
+          "id": "earring_right_3",
+          "name": "Earring Right 3",
+          "type": "svg",
+          "path": "22. Right Earring/earring_right_3.svg"
+        },
+        {
+          "id": "earring_right_4",
+          "name": "Earring Right 4",
+          "type": "svg",
+          "path": "22. Right Earring/earring_right_4.svg"
+        },
+        {
+          "id": "earring_right_5",
+          "name": "Earring Right 5",
+          "type": "svg",
+          "path": "22. Right Earring/earring_right_5.svg"
+        },
+        {
+          "id": "earring_right_6",
+          "name": "Earring Right 6",
+          "type": "svg",
+          "path": "22. Right Earring/earring_right_6.svg"
+        },
+        {
+          "id": "earring_right_7",
+          "name": "Earring Right 7",
+          "type": "svg",
+          "path": "22. Right Earring/earring_right_7.svg"
+        },
+        {
+          "id": "earring_right_8",
+          "name": "Earring Right 8",
+          "type": "svg",
+          "path": "22. Right Earring/earring_right_8.svg"
+        },
+        {
+          "id": "earring_right_9",
+          "name": "Earring Right 9",
+          "type": "svg",
+          "path": "22. Right Earring/earring_right_9.svg"
+        },
+        {
+          "id": "earring_right_10",
+          "name": "Earring Right 10",
+          "type": "svg",
+          "path": "22. Right Earring/earring_right_10.svg"
+        },
+        {
+          "id": "earring_right_11",
+          "name": "Earring Right 11",
+          "type": "svg",
+          "path": "22. Right Earring/earring_right_11.svg"
+        },
+        {
+          "id": "earring_right_12",
+          "name": "Earring Right 12",
+          "type": "svg",
+          "path": "22. Right Earring/earring_right_12.svg"
+        },
+        {
+          "id": "earring_right_13",
+          "name": "Earring Right 13",
+          "type": "svg",
+          "path": "22. Right Earring/earring_right_13.svg"
+        },
+        {
+          "id": "earring_right_14",
+          "name": "Earring Right 14",
+          "type": "svg",
+          "path": "22. Right Earring/earring_right_14.svg"
+        },
+        {
+          "id": "earring_right_15",
+          "name": "Earring Right 15",
+          "type": "svg",
+          "path": "22. Right Earring/earring_right_15.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 23,
+      "folderName": "23. Outfit -Top",
+      "assets": [
+        {
+          "id": "outfit_bow_top_1",
+          "name": "Outfit Bow Top 1",
+          "type": "svg",
+          "path": "23. Outfit -Top/outfit_bow_top_1.svg"
+        },
+        {
+          "id": "outfit_bow_top_2",
+          "name": "Outfit Bow Top 2",
+          "type": "svg",
+          "path": "23. Outfit -Top/outfit_bow_top_2.svg"
+        },
+        {
+          "id": "outfit_bow_top_3",
+          "name": "Outfit Bow Top 3",
+          "type": "svg",
+          "path": "23. Outfit -Top/outfit_bow_top_3.svg"
+        },
+        {
+          "id": "outfit_bow_top_4",
+          "name": "Outfit Bow Top 4",
+          "type": "svg",
+          "path": "23. Outfit -Top/outfit_bow_top_4.svg"
+        },
+        {
+          "id": "outfit_cover_mida_1",
+          "name": "Outfit Cover Mida 1",
+          "type": "svg",
+          "path": "23. Outfit -Top/outfit_cover_midA_1.svg"
+        },
+        {
+          "id": "outfit_cover_mida_2_a",
+          "name": "Outfit Cover Mida 2 A",
+          "type": "svg",
+          "path": "23. Outfit -Top/outfit_cover_midA_2_A.svg"
+        },
+        {
+          "id": "outfit_cover_mida_2_b",
+          "name": "Outfit Cover Mida 2 B",
+          "type": "svg",
+          "path": "23. Outfit -Top/outfit_cover_midA_2_B.svg"
+        },
+        {
+          "id": "outfit_cover_mida_2_c",
+          "name": "Outfit Cover Mida 2 C",
+          "type": "svg",
+          "path": "23. Outfit -Top/outfit_cover_midA_2_C.svg"
+        },
+        {
+          "id": "outfit_cover_mida_3",
+          "name": "Outfit Cover Mida 3",
+          "type": "svg",
+          "path": "23. Outfit -Top/outfit_cover_midA_3.svg"
+        },
+        {
+          "id": "outfit_cover_midb_4",
+          "name": "Outfit Cover Midb 4",
+          "type": "svg",
+          "path": "23. Outfit -Top/outfit_cover_midB_4.svg"
+        },
+        {
+          "id": "outfit_hood_top_1",
+          "name": "Outfit Hood Top 1",
+          "type": "svg",
+          "path": "23. Outfit -Top/outfit_hood_top_1.svg"
+        },
+        {
+          "id": "outfit_hood_top_2",
+          "name": "Outfit Hood Top 2",
+          "type": "svg",
+          "path": "23. Outfit -Top/outfit_hood_top_2.svg"
+        },
+        {
+          "id": "outfit_hood_top_3",
+          "name": "Outfit Hood Top 3",
+          "type": "svg",
+          "path": "23. Outfit -Top/outfit_hood_top_3.svg"
+        },
+        {
+          "id": "outfit_jacket_top_1",
+          "name": "Outfit Jacket Top 1",
+          "type": "svg",
+          "path": "23. Outfit -Top/outfit_jacket_top_1.svg"
+        },
+        {
+          "id": "outfit_overall_top_1",
+          "name": "Outfit Overall Top 1",
+          "type": "svg",
+          "path": "23. Outfit -Top/outfit_overall_top_1.svg"
+        },
+        {
+          "id": "outfit_overall_top_2",
+          "name": "Outfit Overall Top 2",
+          "type": "svg",
+          "path": "23. Outfit -Top/outfit_overall_top_2.svg"
+        },
+        {
+          "id": "outfit_overall_top_3",
+          "name": "Outfit Overall Top 3",
+          "type": "svg",
+          "path": "23. Outfit -Top/outfit_overall_top_3.svg"
+        },
+        {
+          "id": "outfit_overall_top_4",
+          "name": "Outfit Overall Top 4",
+          "type": "svg",
+          "path": "23. Outfit -Top/outfit_overall_top_4.svg"
+        },
+        {
+          "id": "outfit_overall_top_5",
+          "name": "Outfit Overall Top 5",
+          "type": "svg",
+          "path": "23. Outfit -Top/outfit_overall_top_5.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 24,
+      "folderName": "24. Outfit - Mid",
+      "assets": [
+        {
+          "id": "outfit_mid_1",
+          "name": "Outfit Mid 1",
+          "type": "svg",
+          "path": "24. Outfit - Mid/outfit_mid_1.svg"
+        },
+        {
+          "id": "outfit_mid_2_a",
+          "name": "Outfit Mid 2 A",
+          "type": "svg",
+          "path": "24. Outfit - Mid/outfit_mid_2_A.svg"
+        },
+        {
+          "id": "outfit_mid_2_b",
+          "name": "Outfit Mid 2 B",
+          "type": "svg",
+          "path": "24. Outfit - Mid/outfit_mid_2_B.svg"
+        },
+        {
+          "id": "outfit_mid_2_c",
+          "name": "Outfit Mid 2 C",
+          "type": "svg",
+          "path": "24. Outfit - Mid/outfit_mid_2_C.svg"
+        },
+        {
+          "id": "outfit_mid_3",
+          "name": "Outfit Mid 3",
+          "type": "svg",
+          "path": "24. Outfit - Mid/outfit_mid_3.svg"
+        },
+        {
+          "id": "outfit_mid_4",
+          "name": "Outfit Mid 4",
+          "type": "svg",
+          "path": "24. Outfit - Mid/outfit_mid_4.svg"
+        },
+        {
+          "id": "outfit_mid_5",
+          "name": "Outfit Mid 5",
+          "type": "svg",
+          "path": "24. Outfit - Mid/outfit_mid_5.svg"
+        },
+        {
+          "id": "outfit_mid_6",
+          "name": "Outfit Mid 6",
+          "type": "svg",
+          "path": "24. Outfit - Mid/outfit_mid_6.svg"
+        },
+        {
+          "id": "outfit_mid_7",
+          "name": "Outfit Mid 7",
+          "type": "svg",
+          "path": "24. Outfit - Mid/outfit_mid_7.svg"
+        },
+        {
+          "id": "outfit_mid_8",
+          "name": "Outfit Mid 8",
+          "type": "svg",
+          "path": "24. Outfit - Mid/outfit_mid_8.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 25,
+      "folderName": "25. Chokers",
+      "assets": [
+        {
+          "id": "choker_1",
+          "name": "Choker 1",
+          "type": "svg",
+          "path": "25. Chokers/choker_1.svg"
+        },
+        {
+          "id": "choker_2",
+          "name": "Choker 2",
+          "type": "svg",
+          "path": "25. Chokers/choker_2.svg"
+        },
+        {
+          "id": "choker_3",
+          "name": "Choker 3",
+          "type": "svg",
+          "path": "25. Chokers/choker_3.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 26,
+      "folderName": "26. Outfit - Base",
+      "assets": [
+        {
+          "id": "outfit_base_1",
+          "name": "Outfit Base 1",
+          "type": "svg",
+          "path": "26. Outfit - Base/outfit_base_1.svg"
+        },
+        {
+          "id": "outfit_base_2",
+          "name": "Outfit Base 2",
+          "type": "svg",
+          "path": "26. Outfit - Base/outfit_base_2.svg"
+        },
+        {
+          "id": "outfit_base_3",
+          "name": "Outfit Base 3",
+          "type": "svg",
+          "path": "26. Outfit - Base/outfit_base_3.svg"
+        },
+        {
+          "id": "outfit_base_4",
+          "name": "Outfit Base 4",
+          "type": "svg",
+          "path": "26. Outfit - Base/outfit_base_4.svg"
+        },
+        {
+          "id": "outfit_base_5",
+          "name": "Outfit Base 5",
+          "type": "svg",
+          "path": "26. Outfit - Base/outfit_base_5.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 27,
+      "folderName": "27. Right Sclera",
+      "assets": [
+        {
+          "id": "sclera_right_1",
+          "name": "Sclera Right 1",
+          "type": "svg",
+          "path": "27. Right Sclera/sclera_right_1.svg"
+        },
+        {
+          "id": "sclera_right_2",
+          "name": "Sclera Right 2",
+          "type": "svg",
+          "path": "27. Right Sclera/sclera_right_2.svg"
+        },
+        {
+          "id": "sclera_right_3",
+          "name": "Sclera Right 3",
+          "type": "svg",
+          "path": "27. Right Sclera/sclera_right_3.svg"
+        },
+        {
+          "id": "sfx_dizzy_iris_right",
+          "name": "Sfx Dizzy Iris Right",
+          "type": "png-animation",
+          "path": "27. Right Sclera/sfx_dizzy_iris_right [read notion]",
+          "subLayers": [
+            {
+              "name": "sfx_dizzy_iris_right [read notion]",
+              "frameCount": 72,
+              "prefix": "DizzyEyeRight"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "layerNum": 28,
+      "folderName": "28. Left Sclera",
+      "assets": [
+        {
+          "id": "sclera_left_1",
+          "name": "Sclera Left 1",
+          "type": "svg",
+          "path": "28. Left Sclera/sclera_left_1.svg"
+        },
+        {
+          "id": "sclera_left_2",
+          "name": "Sclera Left 2",
+          "type": "svg",
+          "path": "28. Left Sclera/sclera_left_2.svg"
+        },
+        {
+          "id": "sclera_left_3",
+          "name": "Sclera Left 3",
+          "type": "svg",
+          "path": "28. Left Sclera/sclera_left_3.svg"
+        },
+        {
+          "id": "sfx_dizzy_iris_left",
+          "name": "Sfx Dizzy Iris Left",
+          "type": "png-animation",
+          "path": "28. Left Sclera/sfx_dizzy_iris_left [read notion]",
+          "subLayers": [
+            {
+              "name": "sfx_dizzy_iris_left [read notion]",
+              "frameCount": 144,
+              "prefix": "DizzyEyeLeft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "layerNum": 29,
+      "folderName": "29. Ear",
+      "assets": [
+        {
+          "id": "ear_elf",
+          "name": "Ear Elf",
+          "type": "svg",
+          "path": "29. Ear/ear_elf.svg"
+        },
+        {
+          "id": "ear_human",
+          "name": "Ear Human",
+          "type": "svg",
+          "path": "29. Ear/ear_human.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 30,
+      "folderName": "30. Nose",
+      "assets": [
+        {
+          "id": "nose_1",
+          "name": "Nose 1",
+          "type": "svg",
+          "path": "30. Nose/nose_1.svg"
+        },
+        {
+          "id": "nose_2",
+          "name": "Nose 2",
+          "type": "svg",
+          "path": "30. Nose/nose_2.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 31,
+      "folderName": "31. Mouth",
+      "assets": [
+        {
+          "id": "mouth_1",
+          "name": "Mouth 1",
+          "type": "svg",
+          "path": "31. Mouth/mouth_1.svg"
+        },
+        {
+          "id": "mouth_2",
+          "name": "Mouth 2",
+          "type": "svg",
+          "path": "31. Mouth/mouth_2.svg"
+        },
+        {
+          "id": "mouth_3",
+          "name": "Mouth 3",
+          "type": "svg",
+          "path": "31. Mouth/mouth_3.svg"
+        },
+        {
+          "id": "mouth_4",
+          "name": "Mouth 4",
+          "type": "svg",
+          "path": "31. Mouth/mouth_4.svg"
+        },
+        {
+          "id": "mouth_5",
+          "name": "Mouth 5",
+          "type": "svg",
+          "path": "31. Mouth/mouth_5.svg"
+        },
+        {
+          "id": "mouth_6",
+          "name": "Mouth 6",
+          "type": "svg",
+          "path": "31. Mouth/mouth_6.svg"
+        },
+        {
+          "id": "mouth_7",
+          "name": "Mouth 7",
+          "type": "svg",
+          "path": "31. Mouth/mouth_7.svg"
+        },
+        {
+          "id": "mouth_8",
+          "name": "Mouth 8",
+          "type": "svg",
+          "path": "31. Mouth/mouth_8.svg"
+        },
+        {
+          "id": "mouth_9",
+          "name": "Mouth 9",
+          "type": "svg",
+          "path": "31. Mouth/mouth_9.svg"
+        },
+        {
+          "id": "mouth_10",
+          "name": "Mouth 10",
+          "type": "svg",
+          "path": "31. Mouth/mouth_10.svg"
+        },
+        {
+          "id": "mouth_11",
+          "name": "Mouth 11",
+          "type": "svg",
+          "path": "31. Mouth/mouth_11.svg"
+        },
+        {
+          "id": "mouth_12",
+          "name": "Mouth 12",
+          "type": "svg",
+          "path": "31. Mouth/mouth_12.svg"
+        },
+        {
+          "id": "mouth_13",
+          "name": "Mouth 13",
+          "type": "svg",
+          "path": "31. Mouth/mouth_13.svg"
+        },
+        {
+          "id": "mouth_14",
+          "name": "Mouth 14",
+          "type": "svg",
+          "path": "31. Mouth/mouth_14.svg"
+        },
+        {
+          "id": "mouth_15",
+          "name": "Mouth 15",
+          "type": "svg",
+          "path": "31. Mouth/mouth_15.svg"
+        },
+        {
+          "id": "mouth_16",
+          "name": "Mouth 16",
+          "type": "svg",
+          "path": "31. Mouth/mouth_16.svg"
+        },
+        {
+          "id": "mouth_17",
+          "name": "Mouth 17",
+          "type": "svg",
+          "path": "31. Mouth/mouth_17.svg"
+        },
+        {
+          "id": "mouth_18",
+          "name": "Mouth 18",
+          "type": "svg",
+          "path": "31. Mouth/mouth_18.svg"
+        },
+        {
+          "id": "mouth_19",
+          "name": "Mouth 19",
+          "type": "svg",
+          "path": "31. Mouth/mouth_19.svg"
+        },
+        {
+          "id": "mouth_20",
+          "name": "Mouth 20",
+          "type": "svg",
+          "path": "31. Mouth/mouth_20.svg"
+        },
+        {
+          "id": "mouth_21",
+          "name": "Mouth 21",
+          "type": "svg",
+          "path": "31. Mouth/mouth_21.svg"
+        },
+        {
+          "id": "mouth_22",
+          "name": "Mouth 22",
+          "type": "svg",
+          "path": "31. Mouth/mouth_22.svg"
+        },
+        {
+          "id": "mouth_23",
+          "name": "Mouth 23",
+          "type": "svg",
+          "path": "31. Mouth/mouth_23.svg"
+        },
+        {
+          "id": "mouth_24",
+          "name": "Mouth 24",
+          "type": "svg",
+          "path": "31. Mouth/mouth_24.svg"
+        },
+        {
+          "id": "mouth_25",
+          "name": "Mouth 25",
+          "type": "svg",
+          "path": "31. Mouth/mouth_25.svg"
+        },
+        {
+          "id": "mouth_26",
+          "name": "Mouth 26",
+          "type": "svg",
+          "path": "31. Mouth/mouth_26.svg"
+        },
+        {
+          "id": "mouth_27",
+          "name": "Mouth 27",
+          "type": "svg",
+          "path": "31. Mouth/mouth_27.svg"
+        },
+        {
+          "id": "mouth_28",
+          "name": "Mouth 28",
+          "type": "svg",
+          "path": "31. Mouth/mouth_28.svg"
+        },
+        {
+          "id": "mouth_29",
+          "name": "Mouth 29",
+          "type": "svg",
+          "path": "31. Mouth/mouth_29.svg"
+        },
+        {
+          "id": "mouth_30",
+          "name": "Mouth 30",
+          "type": "svg",
+          "path": "31. Mouth/mouth_30.svg"
+        },
+        {
+          "id": "mouth_31",
+          "name": "Mouth 31",
+          "type": "svg",
+          "path": "31. Mouth/mouth_31.svg"
+        },
+        {
+          "id": "mouth_32",
+          "name": "Mouth 32",
+          "type": "svg",
+          "path": "31. Mouth/mouth_32.svg"
+        },
+        {
+          "id": "mouth_33",
+          "name": "Mouth 33",
+          "type": "svg",
+          "path": "31. Mouth/mouth_33.svg"
+        },
+        {
+          "id": "mouth_34",
+          "name": "Mouth 34",
+          "type": "svg",
+          "path": "31. Mouth/mouth_34.svg"
+        },
+        {
+          "id": "mouth_35",
+          "name": "Mouth 35",
+          "type": "svg",
+          "path": "31. Mouth/mouth_35.svg"
+        },
+        {
+          "id": "mouth_36",
+          "name": "Mouth 36",
+          "type": "svg",
+          "path": "31. Mouth/mouth_36.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 32,
+      "folderName": "32. Body",
+      "assets": [
+        {
+          "id": "body",
+          "name": "Body",
+          "type": "png-stack",
+          "path": "32. Body",
+          "subLayerCount": 5
+        },
+        {
+          "id": "body_mask_no_ears",
+          "name": "Body Mask No Ears",
+          "type": "png",
+          "path": "32. Body/body_mask_no-ears.png"
+        }
+      ]
+    },
+    {
+      "layerNum": 33,
+      "folderName": "33. Left Earring",
+      "assets": [
+        {
+          "id": "earring_left_7",
+          "name": "Earring Left 7",
+          "type": "svg",
+          "path": "33. Left Earring/earring_left_7.svg"
+        },
+        {
+          "id": "earring_left_10",
+          "name": "Earring Left 10",
+          "type": "svg",
+          "path": "33. Left Earring/earring_left_10.svg"
+        },
+        {
+          "id": "earring_left_11",
+          "name": "Earring Left 11",
+          "type": "svg",
+          "path": "33. Left Earring/earring_left_11.svg"
+        },
+        {
+          "id": "earring_left_12",
+          "name": "Earring Left 12",
+          "type": "svg",
+          "path": "33. Left Earring/earring_left_12.svg"
+        },
+        {
+          "id": "earring_left_13",
+          "name": "Earring Left 13",
+          "type": "svg",
+          "path": "33. Left Earring/earring_left_13.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 34,
+      "folderName": "34. Outfit Cover - Top",
+      "assets": [
+        {
+          "id": "outfit_cover_top_1",
+          "name": "Outfit Cover Top 1",
+          "type": "svg",
+          "path": "34. Outfit Cover - Top/outfit_cover_top_1.svg"
+        },
+        {
+          "id": "outfit_cover_top_4",
+          "name": "Outfit Cover Top 4",
+          "type": "svg",
+          "path": "34. Outfit Cover - Top/outfit_cover_top_4.svg"
+        },
+        {
+          "id": "outfit_cover_top_7",
+          "name": "Outfit Cover Top 7",
+          "type": "svg",
+          "path": "34. Outfit Cover - Top/outfit_cover_top_7.svg"
+        },
+        {
+          "id": "outfit_cover_top_9",
+          "name": "Outfit Cover Top 9",
+          "type": "svg",
+          "path": "34. Outfit Cover - Top/outfit_cover_top_9.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 35,
+      "folderName": "35. Wing and Tail",
+      "assets": [
+        {
+          "id": "sfx_tail_1",
+          "name": "Sfx Tail 1",
+          "type": "png-animation",
+          "path": "35. Wing and Tail/sfx_tail_1",
+          "subLayers": [
+            {
+              "name": "1. Outline",
+              "frameCount": 105,
+              "prefix": "Outline",
+              "bounds": {
+                "width": 762,
+                "height": 752,
+                "offsetX": 1593,
+                "offsetY": 1568
+              },
+              "alphaOnly": false,
+              "bcFile": "35. Wing and Tail/sfx_tail_1/1. Outline.bcf",
+              "bcWidth": 764,
+              "bcHeight": 752
+            },
+            {
+              "name": "2. Shade",
+              "frameCount": 105,
+              "prefix": "Shade",
+              "bounds": {
+                "width": 437,
+                "height": 247,
+                "offsetX": 1802,
+                "offsetY": 1615
+              },
+              "alphaOnly": false,
+              "bcFile": "35. Wing and Tail/sfx_tail_1/2. Shade.bcf",
+              "bcWidth": 440,
+              "bcHeight": 248
+            },
+            {
+              "name": "3. Base",
+              "frameCount": 105,
+              "prefix": "Fill",
+              "bounds": {
+                "width": 756,
+                "height": 749,
+                "offsetX": 1596,
+                "offsetY": 1571
+              },
+              "alphaOnly": false,
+              "bcFile": "35. Wing and Tail/sfx_tail_1/3. Base.bcf",
+              "bcWidth": 756,
+              "bcHeight": 752
+            }
+          ]
+        },
+        {
+          "id": "sfx_tail_2",
+          "name": "Sfx Tail 2",
+          "type": "png-animation",
+          "path": "35. Wing and Tail/sfx_tail_2",
+          "subLayers": [
+            {
+              "name": "1. Outline",
+              "frameCount": 105,
+              "prefix": "Outline",
+              "bounds": {
+                "width": 581,
+                "height": 782,
+                "offsetX": 1658,
+                "offsetY": 1538
+              },
+              "alphaOnly": true,
+              "bcFile": "35. Wing and Tail/sfx_tail_2/1. Outline.bcf",
+              "bcWidth": 584,
+              "bcHeight": 784
+            },
+            {
+              "name": "2. Shade",
+              "frameCount": 105,
+              "prefix": "Shade",
+              "bounds": {
+                "width": 416,
+                "height": 512,
+                "offsetX": 1712,
+                "offsetY": 1808
+              },
+              "alphaOnly": false,
+              "bcFile": "35. Wing and Tail/sfx_tail_2/2. Shade.bcf",
+              "bcWidth": 416,
+              "bcHeight": 512
+            },
+            {
+              "name": "3. Base",
+              "frameCount": 105,
+              "prefix": "Fill",
+              "bounds": {
+                "width": 567,
+                "height": 776,
+                "offsetX": 1664,
+                "offsetY": 1544
+              },
+              "alphaOnly": false,
+              "bcFile": "35. Wing and Tail/sfx_tail_2/3. Base.bcf",
+              "bcWidth": 568,
+              "bcHeight": 776
+            }
+          ]
+        },
+        {
+          "id": "sfx_tail_3",
+          "name": "Sfx Tail 3",
+          "type": "png-animation",
+          "path": "35. Wing and Tail/sfx_tail_3",
+          "subLayers": [
+            {
+              "name": "1. Outline",
+              "frameCount": 105,
+              "prefix": "Outline",
+              "bounds": {
+                "width": 467,
+                "height": 559,
+                "offsetX": 1668,
+                "offsetY": 1761
+              },
+              "alphaOnly": true,
+              "bcFile": "35. Wing and Tail/sfx_tail_3/1. Outline.bcf",
+              "bcWidth": 468,
+              "bcHeight": 560
+            },
+            {
+              "name": "2. Shade",
+              "frameCount": 105,
+              "prefix": "Shade",
+              "bounds": {
+                "width": 456,
+                "height": 315,
+                "offsetX": 1675,
+                "offsetY": 2005
+              },
+              "alphaOnly": false,
+              "bcFile": "35. Wing and Tail/sfx_tail_3/2. Shade.bcf",
+              "bcWidth": 456,
+              "bcHeight": 316
+            },
+            {
+              "name": "3. Base",
+              "frameCount": 105,
+              "prefix": "Fill",
+              "bounds": {
+                "width": 455,
+                "height": 552,
+                "offsetX": 1674,
+                "offsetY": 1768
+              },
+              "alphaOnly": false,
+              "bcFile": "35. Wing and Tail/sfx_tail_3/3. Base.bcf",
+              "bcWidth": 456,
+              "bcHeight": 552
+            }
+          ]
+        },
+        {
+          "id": "sfx_tail_4",
+          "name": "Sfx Tail 4",
+          "type": "png-animation",
+          "path": "35. Wing and Tail/sfx_tail_4",
+          "subLayers": [
+            {
+              "name": "1. Outline",
+              "frameCount": 105,
+              "prefix": "Outline",
+              "bounds": {
+                "width": 552,
+                "height": 696,
+                "offsetX": 1627,
+                "offsetY": 1624
+              },
+              "alphaOnly": true,
+              "bcFile": "35. Wing and Tail/sfx_tail_4/1. Outline.bcf",
+              "bcWidth": 552,
+              "bcHeight": 696
+            },
+            {
+              "name": "2. Shade",
+              "frameCount": 105,
+              "prefix": "Shade",
+              "bounds": {
+                "width": 424,
+                "height": 615,
+                "offsetX": 1739,
+                "offsetY": 1705
+              },
+              "alphaOnly": false,
+              "bcFile": "35. Wing and Tail/sfx_tail_4/2. Shade.bcf",
+              "bcWidth": 424,
+              "bcHeight": 616
+            },
+            {
+              "name": "3. Base",
+              "frameCount": 105,
+              "prefix": "Fill",
+              "bounds": {
+                "width": 540,
+                "height": 690,
+                "offsetX": 1632,
+                "offsetY": 1630
+              },
+              "alphaOnly": false,
+              "bcFile": "35. Wing and Tail/sfx_tail_4/3. Base.bcf",
+              "bcWidth": 540,
+              "bcHeight": 692
+            }
+          ]
+        },
+        {
+          "id": "sfx_tail_5",
+          "name": "Sfx Tail 5",
+          "type": "png-animation",
+          "path": "35. Wing and Tail/sfx_tail_5",
+          "subLayers": [
+            {
+              "name": "1. Outline",
+              "frameCount": 105,
+              "prefix": "Outline",
+              "bounds": {
+                "width": 915,
+                "height": 683,
+                "offsetX": 1513,
+                "offsetY": 1637
+              },
+              "alphaOnly": false,
+              "bcFile": "35. Wing and Tail/sfx_tail_5/1. Outline.bcf",
+              "bcWidth": 916,
+              "bcHeight": 684
+            },
+            {
+              "name": "2. Shade",
+              "frameCount": 105,
+              "prefix": "Shade",
+              "bounds": {
+                "width": 797,
+                "height": 491,
+                "offsetX": 1620,
+                "offsetY": 1829
+              },
+              "alphaOnly": false,
+              "bcFile": "35. Wing and Tail/sfx_tail_5/2. Shade.bcf",
+              "bcWidth": 800,
+              "bcHeight": 492
+            },
+            {
+              "name": "3. Base",
+              "frameCount": 105,
+              "prefix": "Fill",
+              "bounds": {
+                "width": 901,
+                "height": 676,
+                "offsetX": 1521,
+                "offsetY": 1644
+              },
+              "alphaOnly": false,
+              "bcFile": "35. Wing and Tail/sfx_tail_5/3. Base.bcf",
+              "bcWidth": 904,
+              "bcHeight": 676
+            }
+          ]
+        },
+        {
+          "id": "sfx_tail_6",
+          "name": "Sfx Tail 6",
+          "type": "png-animation",
+          "path": "35. Wing and Tail/sfx_tail_6",
+          "subLayers": [
+            {
+              "name": "1. Outline",
+              "frameCount": 105,
+              "prefix": "Outline",
+              "bounds": {
+                "width": 984,
+                "height": 845,
+                "offsetX": 1416,
+                "offsetY": 1475
+              },
+              "alphaOnly": true,
+              "bcFile": "35. Wing and Tail/sfx_tail_6/1. Outline.bcf",
+              "bcWidth": 984,
+              "bcHeight": 848
+            },
+            {
+              "name": "2. Tip",
+              "frameCount": 105,
+              "prefix": "Tip",
+              "bounds": {
+                "width": 851,
+                "height": 478,
+                "offsetX": 1426,
+                "offsetY": 1483
+              },
+              "alphaOnly": false,
+              "bcFile": "35. Wing and Tail/sfx_tail_6/2. Tip.bcf",
+              "bcWidth": 852,
+              "bcHeight": 480
+            },
+            {
+              "name": "3. Shade",
+              "frameCount": 105,
+              "prefix": "Shade2",
+              "bounds": {
+                "width": 519,
+                "height": 733,
+                "offsetX": 1882,
+                "offsetY": 1587
+              },
+              "alphaOnly": false,
+              "bcFile": "35. Wing and Tail/sfx_tail_6/3. Shade.bcf",
+              "bcWidth": 520,
+              "bcHeight": 736
+            },
+            {
+              "name": "4. Base",
+              "frameCount": 105,
+              "prefix": "Fill",
+              "bounds": {
+                "width": 972,
+                "height": 838,
+                "offsetX": 1422,
+                "offsetY": 1482
+              },
+              "alphaOnly": false,
+              "bcFile": "35. Wing and Tail/sfx_tail_6/4. Base.bcf",
+              "bcWidth": 972,
+              "bcHeight": 840
+            }
+          ]
+        },
+        {
+          "id": "tail_1",
+          "name": "Tail 1",
+          "type": "svg",
+          "path": "35. Wing and Tail/tail_1.svg"
+        },
+        {
+          "id": "tail_2",
+          "name": "Tail 2",
+          "type": "svg",
+          "path": "35. Wing and Tail/tail_2.svg"
+        },
+        {
+          "id": "tail_3",
+          "name": "Tail 3",
+          "type": "svg",
+          "path": "35. Wing and Tail/tail_3.svg"
+        },
+        {
+          "id": "tail_4",
+          "name": "Tail 4",
+          "type": "svg",
+          "path": "35. Wing and Tail/tail_4.svg"
+        },
+        {
+          "id": "tail_5",
+          "name": "Tail 5",
+          "type": "svg",
+          "path": "35. Wing and Tail/tail_5.svg"
+        },
+        {
+          "id": "tail_6",
+          "name": "Tail 6",
+          "type": "svg",
+          "path": "35. Wing and Tail/tail_6.svg"
+        },
+        {
+          "id": "tail_7",
+          "name": "Tail 7",
+          "type": "svg",
+          "path": "35. Wing and Tail/tail_7.svg"
+        },
+        {
+          "id": "tail_8",
+          "name": "Tail 8",
+          "type": "svg",
+          "path": "35. Wing and Tail/tail_8.svg"
+        },
+        {
+          "id": "tail_9",
+          "name": "Tail 9",
+          "type": "svg",
+          "path": "35. Wing and Tail/tail_9.svg"
+        },
+        {
+          "id": "tail_10",
+          "name": "Tail 10",
+          "type": "svg",
+          "path": "35. Wing and Tail/tail_10.svg"
+        },
+        {
+          "id": "tail_11",
+          "name": "Tail 11",
+          "type": "svg",
+          "path": "35. Wing and Tail/tail_11.svg"
+        },
+        {
+          "id": "wing_1",
+          "name": "Wing 1",
+          "type": "svg",
+          "path": "35. Wing and Tail/wing_1.svg"
+        },
+        {
+          "id": "wing_2",
+          "name": "Wing 2",
+          "type": "svg",
+          "path": "35. Wing and Tail/wing_2.svg"
+        },
+        {
+          "id": "wing_3",
+          "name": "Wing 3",
+          "type": "svg",
+          "path": "35. Wing and Tail/wing_3.svg"
+        },
+        {
+          "id": "wing_4",
+          "name": "Wing 4",
+          "type": "svg",
+          "path": "35. Wing and Tail/wing_4.svg"
+        },
+        {
+          "id": "wing_5",
+          "name": "Wing 5",
+          "type": "svg",
+          "path": "35. Wing and Tail/wing_5.svg"
+        },
+        {
+          "id": "wing_6",
+          "name": "Wing 6",
+          "type": "svg",
+          "path": "35. Wing and Tail/wing_6.svg"
+        },
+        {
+          "id": "wing_7",
+          "name": "Wing 7",
+          "type": "svg",
+          "path": "35. Wing and Tail/wing_7.svg"
+        },
+        {
+          "id": "wing_8",
+          "name": "Wing 8",
+          "type": "svg",
+          "path": "35. Wing and Tail/wing_8.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 36,
+      "folderName": "36. Back Hair",
+      "assets": [
+        {
+          "id": "hair_back_1",
+          "name": "Hair Back 1",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_1.svg"
+        },
+        {
+          "id": "hair_back_2",
+          "name": "Hair Back 2",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_2.svg"
+        },
+        {
+          "id": "hair_back_3",
+          "name": "Hair Back 3",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_3.svg"
+        },
+        {
+          "id": "hair_back_4",
+          "name": "Hair Back 4",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_4.svg"
+        },
+        {
+          "id": "hair_back_5",
+          "name": "Hair Back 5",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_5.svg"
+        },
+        {
+          "id": "hair_back_6",
+          "name": "Hair Back 6",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_6.svg"
+        },
+        {
+          "id": "hair_back_7",
+          "name": "Hair Back 7",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_7.svg"
+        },
+        {
+          "id": "hair_back_8",
+          "name": "Hair Back 8",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_8.svg"
+        },
+        {
+          "id": "hair_back_9",
+          "name": "Hair Back 9",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_9.svg"
+        },
+        {
+          "id": "hair_back_10",
+          "name": "Hair Back 10",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_10.svg"
+        },
+        {
+          "id": "hair_back_11",
+          "name": "Hair Back 11",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_11.svg"
+        },
+        {
+          "id": "hair_back_12",
+          "name": "Hair Back 12",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_12.svg"
+        },
+        {
+          "id": "hair_back_13",
+          "name": "Hair Back 13",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_13.svg"
+        },
+        {
+          "id": "hair_back_14",
+          "name": "Hair Back 14",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_14.svg"
+        },
+        {
+          "id": "hair_back_15",
+          "name": "Hair Back 15",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_15.svg"
+        },
+        {
+          "id": "hair_back_16",
+          "name": "Hair Back 16",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_16.svg"
+        },
+        {
+          "id": "hair_back_17",
+          "name": "Hair Back 17",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_17.svg"
+        },
+        {
+          "id": "hair_back_18",
+          "name": "Hair Back 18",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_18.svg"
+        },
+        {
+          "id": "hair_back_19",
+          "name": "Hair Back 19",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_19.svg"
+        },
+        {
+          "id": "hair_back_20",
+          "name": "Hair Back 20",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_20.svg"
+        },
+        {
+          "id": "hair_back_21",
+          "name": "Hair Back 21",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_21.svg"
+        },
+        {
+          "id": "hair_back_22",
+          "name": "Hair Back 22",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_22.svg"
+        },
+        {
+          "id": "hair_back_23",
+          "name": "Hair Back 23",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_23.svg"
+        },
+        {
+          "id": "hair_back_24",
+          "name": "Hair Back 24",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_24.svg"
+        },
+        {
+          "id": "hair_back_25",
+          "name": "Hair Back 25",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_25.svg"
+        },
+        {
+          "id": "hair_back_26",
+          "name": "Hair Back 26",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_26.svg"
+        },
+        {
+          "id": "hair_back_27",
+          "name": "Hair Back 27",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_27.svg"
+        },
+        {
+          "id": "hair_back_28",
+          "name": "Hair Back 28",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_28.svg"
+        },
+        {
+          "id": "hair_back_29",
+          "name": "Hair Back 29",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_29.svg"
+        },
+        {
+          "id": "hair_back_30",
+          "name": "Hair Back 30",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_30.svg"
+        },
+        {
+          "id": "hair_back_31",
+          "name": "Hair Back 31",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_31.svg"
+        },
+        {
+          "id": "hair_back_32",
+          "name": "Hair Back 32",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_32.svg"
+        },
+        {
+          "id": "hair_back_33",
+          "name": "Hair Back 33",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_33.svg"
+        },
+        {
+          "id": "hair_back_34",
+          "name": "Hair Back 34",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_34.svg"
+        },
+        {
+          "id": "hair_back_35",
+          "name": "Hair Back 35",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_35.svg"
+        },
+        {
+          "id": "hair_back_36",
+          "name": "Hair Back 36",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_36.svg"
+        },
+        {
+          "id": "hair_back_37",
+          "name": "Hair Back 37",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_37.svg"
+        },
+        {
+          "id": "hair_back_38",
+          "name": "Hair Back 38",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_38.svg"
+        },
+        {
+          "id": "hair_back_assist_1,2,7,23",
+          "name": "Hair Back Assist 1,2,7,23",
+          "type": "svg",
+          "path": "36. Back Hair/hair_back_assist_1,2,7,23.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 37,
+      "folderName": "37. Back Ribbon",
+      "assets": [
+        {
+          "id": "ribbon_back_1",
+          "name": "Ribbon Back 1",
+          "type": "svg",
+          "path": "37. Back Ribbon/ribbon_back_1.svg"
+        },
+        {
+          "id": "ribbon_back_2",
+          "name": "Ribbon Back 2",
+          "type": "svg",
+          "path": "37. Back Ribbon/ribbon_back_2.svg"
+        },
+        {
+          "id": "ribbon_back_3",
+          "name": "Ribbon Back 3",
+          "type": "svg",
+          "path": "37. Back Ribbon/ribbon_back_3.svg"
+        },
+        {
+          "id": "ribbon_back_4",
+          "name": "Ribbon Back 4",
+          "type": "svg",
+          "path": "37. Back Ribbon/ribbon_back_4.svg"
+        },
+        {
+          "id": "ribbon_back_7",
+          "name": "Ribbon Back 7",
+          "type": "svg",
+          "path": "37. Back Ribbon/ribbon_back_7.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 38,
+      "folderName": "38. Back Hat and Animal Ear",
+      "assets": [
+        {
+          "id": "animal_ear_back_1",
+          "name": "Animal Ear Back 1",
+          "type": "svg",
+          "path": "38. Back Hat and Animal Ear/animal-ear_back_1.svg"
+        },
+        {
+          "id": "animal_ear_back_2",
+          "name": "Animal Ear Back 2",
+          "type": "svg",
+          "path": "38. Back Hat and Animal Ear/animal-ear_back_2.svg"
+        },
+        {
+          "id": "animal_ear_back_3",
+          "name": "Animal Ear Back 3",
+          "type": "svg",
+          "path": "38. Back Hat and Animal Ear/animal-ear_back_3.svg"
+        },
+        {
+          "id": "animal_ear_back_4",
+          "name": "Animal Ear Back 4",
+          "type": "svg",
+          "path": "38. Back Hat and Animal Ear/animal-ear_back_4.svg"
+        },
+        {
+          "id": "animal_ear_back_5",
+          "name": "Animal Ear Back 5",
+          "type": "svg",
+          "path": "38. Back Hat and Animal Ear/animal-ear_back_5.svg"
+        },
+        {
+          "id": "animal_ear_back_6",
+          "name": "Animal Ear Back 6",
+          "type": "svg",
+          "path": "38. Back Hat and Animal Ear/animal-ear_back_6.svg"
+        },
+        {
+          "id": "animal_ear_back_7",
+          "name": "Animal Ear Back 7",
+          "type": "svg",
+          "path": "38. Back Hat and Animal Ear/animal-ear_back_7.svg"
+        },
+        {
+          "id": "animal_ear_back_8",
+          "name": "Animal Ear Back 8",
+          "type": "svg",
+          "path": "38. Back Hat and Animal Ear/animal-ear_back_8.svg"
+        },
+        {
+          "id": "animal_ear_back_9",
+          "name": "Animal Ear Back 9",
+          "type": "svg",
+          "path": "38. Back Hat and Animal Ear/animal-ear_back_9.svg"
+        },
+        {
+          "id": "animal_ear_back_10",
+          "name": "Animal Ear Back 10",
+          "type": "svg",
+          "path": "38. Back Hat and Animal Ear/animal-ear_back_10.svg"
+        },
+        {
+          "id": "animal_ear_back_11",
+          "name": "Animal Ear Back 11",
+          "type": "svg",
+          "path": "38. Back Hat and Animal Ear/animal-ear_back_11.svg"
+        },
+        {
+          "id": "animal_ear_back_12",
+          "name": "Animal Ear Back 12",
+          "type": "svg",
+          "path": "38. Back Hat and Animal Ear/animal-ear_back_12.svg"
+        },
+        {
+          "id": "animal_ear_back_13",
+          "name": "Animal Ear Back 13",
+          "type": "svg",
+          "path": "38. Back Hat and Animal Ear/animal-ear_back_13.svg"
+        },
+        {
+          "id": "animal_ear_back_14",
+          "name": "Animal Ear Back 14",
+          "type": "svg",
+          "path": "38. Back Hat and Animal Ear/animal-ear_back_14.svg"
+        },
+        {
+          "id": "animal_ear_back_15",
+          "name": "Animal Ear Back 15",
+          "type": "svg",
+          "path": "38. Back Hat and Animal Ear/animal-ear_back_15.svg"
+        },
+        {
+          "id": "animal_ear_back_16",
+          "name": "Animal Ear Back 16",
+          "type": "svg",
+          "path": "38. Back Hat and Animal Ear/animal-ear_back_16.svg"
+        },
+        {
+          "id": "animal_ear_back_17",
+          "name": "Animal Ear Back 17",
+          "type": "svg",
+          "path": "38. Back Hat and Animal Ear/animal-ear_back_17.svg"
+        },
+        {
+          "id": "animal_ear_back_18",
+          "name": "Animal Ear Back 18",
+          "type": "svg",
+          "path": "38. Back Hat and Animal Ear/animal-ear_back_18.svg"
+        },
+        {
+          "id": "animal_ear_back_25",
+          "name": "Animal Ear Back 25",
+          "type": "svg",
+          "path": "38. Back Hat and Animal Ear/animal-ear_back_25.svg"
+        },
+        {
+          "id": "hat_back_5",
+          "name": "Hat Back 5",
+          "type": "svg",
+          "path": "38. Back Hat and Animal Ear/hat_back_5.svg"
+        },
+        {
+          "id": "hat_back_6_a_and_b",
+          "name": "Hat Back 6 A And B",
+          "type": "svg",
+          "path": "38. Back Hat and Animal Ear/hat_back_6_A&B.svg"
+        },
+        {
+          "id": "hat_back_7",
+          "name": "Hat Back 7",
+          "type": "svg",
+          "path": "38. Back Hat and Animal Ear/hat_back_7.svg"
+        },
+        {
+          "id": "hat_back_10",
+          "name": "Hat Back 10",
+          "type": "svg",
+          "path": "38. Back Hat and Animal Ear/hat_back_10.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 39,
+      "folderName": "39. Left Pigtail",
+      "assets": [
+        {
+          "id": "pigtail_left_1",
+          "name": "Pigtail Left 1",
+          "type": "svg",
+          "path": "39. Left Pigtail/pigtail_left_1.svg"
+        },
+        {
+          "id": "pigtail_left_2",
+          "name": "Pigtail Left 2",
+          "type": "svg",
+          "path": "39. Left Pigtail/pigtail_left_2.svg"
+        },
+        {
+          "id": "pigtail_left_3",
+          "name": "Pigtail Left 3",
+          "type": "svg",
+          "path": "39. Left Pigtail/pigtail_left_3.svg"
+        },
+        {
+          "id": "pigtail_left_4",
+          "name": "Pigtail Left 4",
+          "type": "svg",
+          "path": "39. Left Pigtail/pigtail_left_4.svg"
+        },
+        {
+          "id": "pigtail_left_5",
+          "name": "Pigtail Left 5",
+          "type": "svg",
+          "path": "39. Left Pigtail/pigtail_left_5.svg"
+        },
+        {
+          "id": "pigtail_left_6",
+          "name": "Pigtail Left 6",
+          "type": "svg",
+          "path": "39. Left Pigtail/pigtail_left_6.svg"
+        },
+        {
+          "id": "pigtail_left_7",
+          "name": "Pigtail Left 7",
+          "type": "svg",
+          "path": "39. Left Pigtail/pigtail_left_7.svg"
+        },
+        {
+          "id": "pigtail_left_8",
+          "name": "Pigtail Left 8",
+          "type": "svg",
+          "path": "39. Left Pigtail/pigtail_left_8.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 40,
+      "folderName": "40. Ponytail",
+      "assets": [
+        {
+          "id": "ponytail_1_l",
+          "name": "Ponytail 1 L",
+          "type": "svg",
+          "path": "40. Ponytail/ponytail_1_L.svg"
+        },
+        {
+          "id": "ponytail_1_r",
+          "name": "Ponytail 1 R",
+          "type": "svg",
+          "path": "40. Ponytail/ponytail_1_R.svg"
+        },
+        {
+          "id": "ponytail_2_l",
+          "name": "Ponytail 2 L",
+          "type": "svg",
+          "path": "40. Ponytail/ponytail_2_L.svg"
+        },
+        {
+          "id": "ponytail_2_r",
+          "name": "Ponytail 2 R",
+          "type": "svg",
+          "path": "40. Ponytail/ponytail_2_R.svg"
+        },
+        {
+          "id": "ponytail_3_l",
+          "name": "Ponytail 3 L",
+          "type": "svg",
+          "path": "40. Ponytail/ponytail_3_L.svg"
+        },
+        {
+          "id": "ponytail_3_r",
+          "name": "Ponytail 3 R",
+          "type": "svg",
+          "path": "40. Ponytail/ponytail_3_R.svg"
+        },
+        {
+          "id": "ponytail_4_l",
+          "name": "Ponytail 4 L",
+          "type": "svg",
+          "path": "40. Ponytail/ponytail_4_L.svg"
+        },
+        {
+          "id": "ponytail_4_r",
+          "name": "Ponytail 4 R",
+          "type": "svg",
+          "path": "40. Ponytail/ponytail_4_R.svg"
+        },
+        {
+          "id": "ponytail_5",
+          "name": "Ponytail 5",
+          "type": "svg",
+          "path": "40. Ponytail/ponytail_5.svg"
+        },
+        {
+          "id": "ponytail_6",
+          "name": "Ponytail 6",
+          "type": "svg",
+          "path": "40. Ponytail/ponytail_6.svg"
+        },
+        {
+          "id": "ponytail_7",
+          "name": "Ponytail 7",
+          "type": "svg",
+          "path": "40. Ponytail/ponytail_7.svg"
+        },
+        {
+          "id": "ponytail_8",
+          "name": "Ponytail 8",
+          "type": "svg",
+          "path": "40. Ponytail/ponytail_8.svg"
+        },
+        {
+          "id": "ponytail_9",
+          "name": "Ponytail 9",
+          "type": "svg",
+          "path": "40. Ponytail/ponytail_9.svg"
+        },
+        {
+          "id": "ponytail_10",
+          "name": "Ponytail 10",
+          "type": "svg",
+          "path": "40. Ponytail/ponytail_10.svg"
+        },
+        {
+          "id": "ponytail_11",
+          "name": "Ponytail 11",
+          "type": "svg",
+          "path": "40. Ponytail/ponytail_11.svg"
+        }
+      ]
+    },
+    {
+      "layerNum": 41,
+      "folderName": "41. Back SFX",
+      "assets": [
+        {
+          "id": "sfx_atomic_back",
+          "name": "Sfx Atomic Back",
+          "type": "png-animation",
+          "path": "41. Back SFX/sfx_atomic_back",
+          "subLayers": [
+            {
+              "name": "1. Particles",
+              "frameCount": 80,
+              "prefix": "Particles",
+              "bounds": {
+                "width": 2029,
+                "height": 886,
+                "offsetX": 267,
+                "offsetY": 1434
+              },
+              "alphaOnly": true,
+              "bcFile": "41. Back SFX/sfx_atomic_back/1. Particles.bcf",
+              "bcWidth": 2032,
+              "bcHeight": 888
+            },
+            {
+              "name": "2. Aura Line",
+              "frameCount": 80,
+              "prefix": "Auraline",
+              "alphaOnly": true,
+              "bcFile": "41. Back SFX/sfx_atomic_back/2. Aura Line.bcf",
+              "bcWidth": 1564,
+              "bcHeight": 1348
+            },
+            {
+              "name": "3. Aura Glow",
+              "frameCount": 80,
+              "prefix": "Auraglow",
+              "alphaOnly": true,
+              "bcFile": "41. Back SFX/sfx_atomic_back/3. Aura Glow.bcf",
+              "bcWidth": 1588,
+              "bcHeight": 1360
+            }
+          ]
+        },
+        {
+          "id": "sfx_butterfly_back",
+          "name": "Sfx Butterfly Back",
+          "type": "png-animation",
+          "path": "41. Back SFX/sfx_butterfly_back",
+          "subLayers": [
+            {
+              "name": "4. Fireflies",
+              "frameCount": 80,
+              "prefix": "Fireflies",
+              "bounds": {
+                "width": 2593,
+                "height": 2124,
+                "offsetX": 139,
+                "offsetY": 196
+              },
+              "alphaOnly": true,
+              "bcFile": "41. Back SFX/sfx_butterfly_back/4. Fireflies.bcf",
+              "bcWidth": 2596,
+              "bcHeight": 2124
+            }
+          ]
+        },
+        {
+          "id": "sfx_foxfire_back",
+          "name": "Sfx Foxfire Back",
+          "type": "png-animation",
+          "path": "41. Back SFX/sfx_foxfire_back",
+          "subLayers": [
+            {
+              "name": "1. Inner Glow",
+              "frameCount": 70,
+              "prefix": "Foxfireinnerglow",
+              "bounds": {
+                "width": 1062,
+                "height": 320,
+                "offsetX": 1048,
+                "offsetY": 1377
+              },
+              "alphaOnly": true,
+              "bcFile": "41. Back SFX/sfx_foxfire_back/1. Inner Glow.bcf",
+              "bcWidth": 1064,
+              "bcHeight": 320
+            },
+            {
+              "name": "2. Middle Glow",
+              "frameCount": 70,
+              "prefix": "Foxfiremiddleglow",
+              "bounds": {
+                "width": 1140,
+                "height": 387,
+                "offsetX": 1009,
+                "offsetY": 1341
+              },
+              "alphaOnly": true,
+              "bcFile": "41. Back SFX/sfx_foxfire_back/2. Middle Glow.bcf",
+              "bcWidth": 1140,
+              "bcHeight": 388
+            },
+            {
+              "name": "3. Outer Glow",
+              "frameCount": 70,
+              "prefix": "Firefoxouterglow",
+              "bounds": {
+                "width": 1281,
+                "height": 698,
+                "offsetX": 935,
+                "offsetY": 1037
+              },
+              "alphaOnly": true,
+              "bcFile": "41. Back SFX/sfx_foxfire_back/3. Outer Glow.bcf",
+              "bcWidth": 1284,
+              "bcHeight": 700
+            }
+          ]
+        },
+        {
+          "id": "sfx_shadow",
+          "name": "Sfx Shadow",
+          "type": "png-animation",
+          "path": "41. Back SFX/sfx_shadow",
+          "subLayers": [
+            {
+              "name": "1. Base",
+              "frameCount": 30,
+              "prefix": "Shadowbase",
+              "bounds": {
+                "width": 1741,
+                "height": 1938,
+                "offsetX": 644,
+                "offsetY": 382
+              },
+              "alphaOnly": true,
+              "bcFile": "41. Back SFX/sfx_shadow/1. Base.bcf",
+              "bcWidth": 1744,
+              "bcHeight": 1940
+            },
+            {
+              "name": "2. Glow",
+              "frameCount": 30,
+              "prefix": "Shadowglow",
+              "bounds": {
+                "width": 1779,
+                "height": 1883,
+                "offsetX": 613,
+                "offsetY": 393
+              },
+              "alphaOnly": true,
+              "bcFile": "41. Back SFX/sfx_shadow/2. Glow.bcf",
+              "bcWidth": 1780,
+              "bcHeight": 1884
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
